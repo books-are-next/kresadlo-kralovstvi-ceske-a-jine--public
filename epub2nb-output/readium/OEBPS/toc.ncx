@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Království české a jiné polokatolické povídky</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jan Křesadlo</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Království české</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Sektáři</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Čtenář not</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Výletníci</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Temnota</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Sebekritika</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Pes genezaretský</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Vteřina a věčnost</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Nebozezy</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_015.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Zjevování</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_017.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Jedno ráno a večer v životě Cypriána Belvy</text>
+      </navLabel>
+      <content src="Text/kralovstvi_ceske_a_jine_polokatolicke_povidky_018.xhtml#_idParaDest-11"/>
+    </navPoint>
+  </navMap>
+</ncx>
