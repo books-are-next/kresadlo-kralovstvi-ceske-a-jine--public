@@ -1,0 +1,42 @@
+---
+title: Sektáři
+contentType: prose
+---
+
+  
+
+„Oheň,“ řekl Jan, „kdo má oheň, to ještě neznamená, že je to poutník. Jako v Břevnově do kostela chodil takovej tlustej strejda vo holi. A ten měl oheň, ale vám nádhernej, to šajnilo na kolik metrů. Tak já jsem si myslel, že je to ňákej guru, tak jsem to řek Hugovi, aby ho přišel vočuchat, jestli to tak je a jestli by nás třeba vzal do učení. Však víte, Hugo má duchovní čich. No, Hugáč přišel a povídá, co blbneš, vždyť ten chlap smrdí jak vopičák, vždyť má nezvládnutej sex. Guru! Tys tomu dal! Tak jsme tomu nerozuměli, jak to pasuje dohromady, takovej nádhernej voheň a vopičárna, ale pak nám jeden starší povídal – to je jedno kdo, však víte, jak po nich jedou – tak ten starší povídal, že to možný je, kdyby ten člověk měl ňaký velký nadání, jako skladatel, nebo spisovatel, nebo malíř, nebo i matematik, nebo i když je dobrej doktor, co správně rozezná nemoce a hned ví, jak je léčit, že bude mít oheň bez ohledu na stupeň duchovního vývoje. Nezvládnutej sex, povídal, ten vadí ze všeho nejmíň, i když by to člověk neřek, protože je v něm aspekt odevzdání a nesobeckosti, nejhorší že je nenávist, ale tu právě že tyhle lidi nikdy nemívaj. I co sou ty komunistický kolaboranti, ty dobrý mezi nima že nikde nenávisť nehlásaj, ačkoliv to je linie strany, to je právě zajímavý, že. Tak jsme si zjistili, kdo je to ten chlap – a byl to ten básník Síbrt – tak to akorát sedlo – to je zajímavý, jak jsou ty vnitřní smysly spolehlivý, když se votevřou.“
+
+„Právě že nejsou,“ řekl Tomáš, „právě že jsou navopak nespolehlivý. A právě přes ně můžou mít přístup negativní inteligence – v tom se shodujou všichni autoři, naši, západní i ti východní. Každej myslí, když se mu votevřou vnitřní smysly, kdoví co nemá a hraje si s tím jako malej Jarda. A vokukovat a vočuchávat druhý lidi – co je ti do nich, starej se vo svou pouť! Každej myslí, když má vnitřní smysly, že kdoví co nemá a jakej není poutník – a to vůbec nemusí bejt pravda a taky to většinou není. Jsou lidi, který nemaj vnitřní smysly votevřený vůbec a přitom vstupujou do beztvárnejch vnorů. Smysly jsou smysly, vnitřní nebo vnější – pryč s nima! To si každej jenom hraje, ale aby se odevzdal a nechal vtáhnout, to má holt každej staženou prdel. To se ví, voni ty bědy nejsou žádná sranda, když potom začnou, když ten starej Adam musí umřít. To každej zůstane sedět na kraji, v oblasti klidu, a dál si netroufá, protože potom už to není příjemný. Ale hrát si s čuchem a s vohněma, to jo! Poutníci! – Nehledě k tomu, že je to strašně nebezpečný, protože to tě potom zavede. Takovejch nepovedenejch poutníků jsou plný blázince a světská věda pak tvrdí, že je to bláznivost všechno – no z vnějšku pozorováno je to závěr logickej – copak. Jak se úplně neodevzdáš, tak tě převezou vždycky, to jsou inteligence mnohem vyšší než lidská, co si myslíš! A co, co bych kázal, však to platí na mě stejně jako na druhý a možná eště víc – ale pravda to je – to je potom hovno pouť, to je pak jenom takovej okultismus.“
+
+„Tomáši, neřvi tak moc, ať tě ty druhý neslyšej. To nemá cenu, někoho pohoršovat a mást. Es werde jeder nach seiner Fason selig.“
+
+„Náhodou, některý ty ortodoxní katolíci šlapou líp než my, v tom je ten paradox.“ – „No to víš, to je tradice.“ – „Jenomže katolíci maj potom ze všech přístupů nejhorší bědy.“ – „Protože si myslej, že maj na to monopol.“ – „Protože se nejhůř vzdávaj jáství.“ – „To souvisí s jejich pojetím duše.“ – „Ale tak je nechte bejt – už se zase staráme vo druhý – to je jedno, jestli jednotlivec nebo organisace – nech druhý bejt a šlapej sám v plný odevzdanosti, v tom se všichni autoři shodujou.“ – „A kam to vlastně dneska jedeme?“ – „Ale někam do ňaký kaple, zpívat Viadanu, je tam snad jako posvícení, nebo co.“ – „No jó, a vidíš, místo abysme to využili, tak jenom kecáme.“
+
+\* \* \*
+
+  
+
+Vlak lokálních spojů kodrcal a unášel smíšený sbor v počtu asi patnácti mužů a žen a unášel je za jejich teoreticky zcela legálním, ale prakticky povážlivě polokriminálním cílem. Někteří četli, jiní se bavili, jedna parta hrála karty. Čtyři muži v jednom oddělení měli zavřené oči a zřejmě spali.
+
+\* \* \*
+
+  
+
+Tak už zase ten tyátr! Kdyby byl ňakej bůh, copak by moh připustit to, co se teď děje, co se vlastně dálo vždycky? Že tomu nerozumíte, nechápete to? Tak jak to, že na druhý straně tvrděj, že víra rozumu neodporuje, že ho jen převyšuje. Mně se zdá, že odporuje – a pořádně: Copak se může oplatka proměnit v Boha? Vždyť to je úplná bláznivina, klanět se plátku těsta. Že si to člověk v mládí neuvědomil? Tyátr je to, tyátr. Ale kdybych vod toho šel, byli by rádi, tak já vydržím, zastrašit se já zase nedám. Snad to má i nějakou funkci: Zdánlivá metafysická podpora mravního řádu a tak. Poláci například se držej jen tím; ale tyátr je to stejně, blbej tyátr. Některý ty mystikové říkaj, že Bůh je Nicota. Možná, že to je právě eště takovej cynickej vtip – to, co sdílej, je snad poznání, že tam nikdo a nic není a nikdy nebylo, je to možná spolek tajnejch nihilistů v lůně církve. I to je možný, svět je tak absurdní. A třeba to tak nakonec všechno je, právě pro tu absurditu – ale ne – není – tyátr je to, tyátr. Proč už jsem z toho dávno nezdrh –?
+
+\* \* \*
+
+  
+
+Kráčel teď zpět, směrem od kaple. Bylo už šero. Nebe na západě bylo ocelově modré a pod ním sirný pruh. Ochladilo se, kameny na cestě přízračně bíle svítily. Zdálo se být jakoby pod modravou vodou. Dříve v takových chvílích cítíval zvláštní příjemnou úzkost a něhu, cítil, že Bůh je blízko, že se dotýká dřeně jeho nitra. To bylo dávno pryč. A kněz teď cítil jen jakési bolavé prázdno. Bůh mu umřel, nebyl. Ve skutečnosti, zřejmě, nebyl nikdy. To, co umřelo, byla jenom chiméra, výtvor jeho mysli.
+
+To silně cítil a věděl. Odsloužil mši s vědomím naprosté marnosti. Odříkal slova a odgestikuloval pohyby, které nic neznamenaly. Provedl hrůzně směšné kejkle s oplatkou a vínem. Oni tomu věří, klanějí se! Jak to je možné, jak dokáží lidé s normální inteligencí si takhle šlapat na rozum? Někteří z nich jsou tak zvaní inteligenti. To jsou právě ti největší blázni. Jak je to možné? Šašku! Šašku! Ohyzdný podvodníku! Komu to zachováváš věrnost? Vždyť přece není. Ne, nelze už žít. Skončím to. Tak nebo tak. Jen kdybych měl odvahu.
+
+U božích muk se něco černalo. Někdo tam stál, jakási skupinka. Snad ho chtějí přepadnout. Nějací chuligáni – anebo oni – anebo chuligáni od nich nastrčení – dělají to teď tak – pracující lid projevuje svůj nesouhlas. Ale vždyť já tomu nevěřím taky, soudruzi, má jim to říct? Ne, mysleli by, že ze strachu. Kněz měl pocit, že přiznání komunistům by jeho hrůzné nahlédnutí do Prázdna jaksi zvulgarisovalo, zesvětštělo. Ne, to se raději nechám utlouct. Čtyři muži se odlepili od božích muk! Jeden byl malý, připosražený, s opičí hrbáčskou tváří. „Dobrý večer, pane faráři,“ pozdravil jeden z divných mužů. „Nebojte se, nic vám neuděláme. My jsme s vámi chtěli jenom promluvit. Poslyšte, vy tomu nevěříte, že? Vy si myslíte, že proměňování není, že nikdy nebylo, že je to jenom takový bláznivý blud. Potom ovšem nemáte úmysl a nic se opravdu nestane. Jenže jsou lidé, kteří to vidí. Nebo vlastně tak jako cítí, jakoby způsob světla, tepla a blaha, nedá se to dobře slovy popsat. To není nutně známka mravní dokonalosti, taková schopnost, to chci zdůraznit. Je sice pravda, že to někdy vzniká – no, to sem teď nepatří. – Tak ale, abyste věděl, my čtyři tady tu schopnost náhodou máme. My jsme tady byli zpívat s tím sborem a viděli jsme, že jste neproměnil, že hostie zůstala temná, hluchavka, jak my říkáme. Tak my jsme si tady na vás počkali, že vám to řeknem a abyste se utěšil a nabyl víry. Protože, milej velebníčku, to není žádná abstrakce nebo symbol, nebo památka, ale konkrétní fakt, kterej některý lidi smyslově vnímaj.“ „Dharmadhâtu,“ řekl sražený muž. „To sem teď nepleť, tuhle terminologii, nemať pojmy. – Protože, jak bychom my jinak poznali, že nemáte úmysl, že tomu nevěříte? Všichni o vás přece říkají, jaký jste správný a statečný kněz, v dnešní době. Tak se utěšte, a příště, až sem zase přijdeme, ať vám to pěkně svítí! Bůh buď s vámi.“
+
+Čtyři muži se obrátili a zvolna odcházeli po ztemnělé cestě směrem k nádraží. Soumrak pokračoval a zanedlouho splynuli s šerem.
+
+Kněz stál nehybně. Nakonec hlasitě promluvil.
+
+„Sektáři!“ řekl nenávistně a posměšně. „Theosofové! – Ke vší mizérii ještě tohle!“
