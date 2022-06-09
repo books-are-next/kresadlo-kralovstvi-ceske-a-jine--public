@@ -3,8 +3,6 @@ title: Čtenář not
 contentType: prose
 ---
 
-  
-
 Probudil se někdy po čtvrté hodině ranní a věděl, že už neusne. Poslední dobou se budil velmi brzy, stále časněji, bez ohledu na to, kdy šel předtím spát, kolik hodin měl naspáno. Snad se tímto způsobem ohlašovala stařecká nespavost.
 
 Venku byla tma jako černá propast, hvězdy za mrakem, déšť bubnoval. Někde v dálce blikalo světlo, ale nemohl si za nic uvědomit, kdy by to mohlo být, jak vlastně vypadá ten výhled za světla.
@@ -47,8 +45,8 @@ Slyšel jsem, uvažoval Čtenář not, že prý chodíval po Praze se svými př
 
 Přitom zpíval:
 
-> Hochiž, hochiž, Jene Huse,  
-> ať nehochí naše duše.
+_Hochiž, hochiž, Jene Huse,  
+ať nehochí naše duše._
 
 Iks totiž ráčkoval.
 
@@ -88,10 +86,8 @@ Tak recitoval Čtenář not ironicky své duši a obloukem odplivl do sněhu hn
 
 ExpeRimentální:
 
-> Kdo šetchí má za tchi hop  
-> mnohým lidem život hRob,
-
-  
+_Kdo šetchí má za tchi hop  
+mnohým lidem život hRob,_
 
 recitoval Iks Čtenáři not, když se zase po létech náhodou potkali. „Sensace,“ liboval si, „zcela nový čeRstvý pchístup.“
 
@@ -119,9 +115,7 @@ Zase si na ni vzpomněl a zase ho zabolelo. Jakpak teď asi vypadá, jakpak ty 
 
 „Tak ahoj,“ řekl náhle a odešel.
 
-\* \* \*
-
-  
+* * *
 
 Chytlo ho to až toho dne večer, když ho nějaký jiný známý pozval na pivo. Nebylo tedy pravda, že se to vynořilo naponejprv až teď, při čtení not. Stalo se to už asi dvakrát předtím, vždy v rozmezí několika, vlastně mnoha let. Čtenář not nebyl pivař, ale občas se napil, proč taky ne. Slezli po schodech do divného, dusného, zakouřeného a zaprděného peklíčka a dali si každý půllitr a smradlavý sýr „Zírhunda“ s chlebem. Sprostota místa a zvolených viktuálií naplňovala duši Čtenáře not jakousi negativní smutnou blažeností. Byl tehdy právě ve středu cesty životem, jak praví Dante, pětatřicátník, hoch jako květ, kteréžto období se vždy vyznačuje zvláštním melancholickým laděním, než si člověk na stárnutí zase zvykne. Jacísi strejdulínové náhle spustili chodskou:
 
@@ -129,11 +123,11 @@ Há – Domažlice sú pjekný mjestečko, je tam pjívovár dobrý pjíveč-ko
 
 Snad odtud pocházeli, nebo co. Zpívali dosti schopně, v terciích a sextách a jeden dělal mruk dud: ehmmmmm – ehmmmm – ehmmmm.
 
-> „Co sem se za tebú nachodil,  
-> co sem se s tebú nastál (3×)  
-> Ty si mi súzená nebula  
-> ha já sem tě nedostál (3×),  
-> Hááá – Domá-žlice sú…“
+_„Co sem se za tebú nachodil,  
+co sem se s tebú nastál (3×)  
+Ty si mi súzená nebula  
+ha já sem tě nedostál (3×),  
+Hááá – Domá-žlice sú…“_
 
 Tehdy to přišlo zase.
 
@@ -141,11 +135,11 @@ Jako by se to nějak nastřádalo, jako by to čekalo jen na tento impuls, co to
 
 Ach, Bože, děvče – a bylo tam tak Radostno, že bychom chekli –
 
-> „Chodili za tebú myslivcí,  
-> mjéli zelený šaty (3×).  
-> Ty si jim súzená nebula  
-> nedostáli tě teký (3×)  
-> Háá – Domažlice sú…“
+_„Chodili za tebú myslivcí,  
+mjéli zelený šaty (3×).  
+Ty si jim súzená nebula  
+nedostáli tě teký (3×)  
+Háá – Domažlice sú…“_
 
 Proč to tak působí, taková hloupá písnička, a vždyť to vlastně ani není pravda: Nechodil, nestál s ní. Kdyby to udělal, bylo to třeba všechno jinak – hůř by se s ním jistě neměla – to by už asi šlo těžko. Ale neodvažoval se, to je to. Ze sobectví vlastně, z jakési zbabělosti, dobře mu vlastně tak!
 
@@ -153,9 +147,7 @@ A co tvoje žena? – Tu bych přece nepoznal, s tou jsem se setkal až za ko
 
 Tehdy to vylezlo naposled, z podvědomí, nebo odkud. Celý čas si pak na Ikse a jeho ženu nevzpomněl, nevěděl, co dělají, ani ho to nezajímalo, nežil v jejich světě.
 
-\* \* \*
-
-  
+* * *
 
 Až najednou dnes ráno. Co se to stalo? Umřela snad a spektrální hlas jeho představy byl zpěvem její unikající duše, která se s ním takto přišla rozloučit? Bylo snad možné, že tak, jak si na ni občas s bolestnou láskou vzpomněl, vždy jednou za mnoho let, že vzpomínala i ona na něj? Co se s ní stalo? Utekl od ní nakonec, jak to tihle papíroví katolíci často dělají, nebo přece jen zůstal? A co jejich děti? Postaral se aspoň slušně o ně, když jich tolik napekl? Ale, co je mi po nich po všech? Co se stalo, odestáti se nemůže, třeba to tak bylo dobře, lepší pro nás pro všechny. Ale co to bylo, že se mu zjevila právě dnes ráno po čtvrté hodině, v čas sebevrahů, v tom pašijovém duetu Adama Michny? A jak se jejich hlasy spájely a třely o sebe v sekundách průtahů! Skoro by věřil, že je to vzpomínka, že snad někdy spolu takhle zpívali, ale ne – nikdy ji ve skutečnosti zpívat neslyšel – proč to jen přišlo, co to jen znamená?
 
@@ -163,8 +155,6 @@ Souviselo to snad nějak, nejasně, nelogicky, ale tajemně pochopitelně, s je
 
 Ale vždyť ani moc netrpěl, jen malinko a občas, v intervalech mnoha let – naposledy dnes ráno. Ale pohřben je teď už důkladně, nevstal z mrtvých, nemůže, jen se snad občas v hrobě pohne, passus, passus et sepultus est. A je to tak už dobře.
 
-\* \* \*
-
-  
+* * *
 
 Čtenář not vzal opět partituru a nalistoval „Crucifixus“. Opět si představil varhany, dvoje housle a zpěv vlastního hlasu. Když se ale hořcově rozzelo G dur po žlutozeleném As dur – f mol a nastoupil alt, nebyl to už živý, vibrující hlas Duchové zpěvačky, ale abstraktní, průhledný tón bez barvy a chuti, jen idea zvuku, jak si obvykle uměl svou omezenou muzikálností psanou hudbu nedokonale představit. Tajemná návštěvnice odešla: Protože, když se soustředil a snažil si vybavit linii altu konkrétním zvukem, ozval se v jeho představě už jen nepřirozený zvuk anglického školeného mužského falsetu. Ovšem, hluboká poloha závěru ukazovala, že skladatel měl původně na mysli nejspíš tento druh hlasu.

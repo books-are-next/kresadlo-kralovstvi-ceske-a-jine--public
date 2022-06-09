@@ -3,8 +3,6 @@ title: Zjevování
 contentType: prose
 ---
 
-  
-
 Kdesi v Anglii, tam, kde se říká „Anglie i v angličtině“, totiž v jihovýchodním cípu ostrova, v oblasti zvané _East Anglia_, je vesnička. Nezáleží na tom, jak se jmenuje ve skutečnosti, ale nelíbí se nám označovat ji jenom jako N nebo X.
 
 Proto budiž zde zvána třeba _Littlethorpe Quoddam_, protože místní jména ve Východní Anglii jsou často jednak sasky starobylá, jako třeba _Shenfield_, jednak kombinovaná s latinou, jako třeba _Bradwell_\-_juxta_\-_Mare._
@@ -29,9 +27,7 @@ Onoho letního podvečera, kdy slunce, nahlížející do západního okna, nač
 
 Skupinka asi deseti mužů a žen, zubatě anglického a středostavovského vzezření, seděla v lavicích na pravé straně kněžiště a před nimi stál místní regens chori, občanským povoláním poštmistr. Z nějakého důvodu bývají poštmistrové, snad po celém západním křesťanstvu, vedoucími kostelními hudebníky, a tak tomu bylo i v Littlethorpe Quoddam. Zpěváci vyluzovali jakousi klasickou polyfonii v latinském jazyce, neboť Druhý vatikánský koncil, jehož rozhodnutí se ovšem podrobili i anglokatolíci, ještě nenastal, a naopak byla dosud v oficiální i neoficiální katolické církvi v moci encyklika _Motu proprio_. Sbor zakončil krucánkovitou kadencí na posledním _amen__,_ sbormistr ještě různě napomenul a upozornil na úskalí nastávajícího nedělního provedení, poděkoval jim a prohlásil zkoušku za ukončenou. Chrchlajíce a tlumeně hovoříce počali zpěváci odevzdávat noty archivářce, vylézat z lavic a odebírat se ke vchodu, zatímco sbormistr vypínal motor varhan a zamykal hrací stůl. V malých dvířkách do sakristie se objevil „rector“, čili anglikánský farář, dejme mu co nejjednodušší jméno – John Smith – a představme si ho jako poněkud olysalého blondýna středního věku a výšky, s brýlemi a dvěma velkými předními zuby. Přistoupil jakoby ostýchavě k almarovitému, nedbale, avšak zazobaně oděnému muži s bradkou, který předtím zpíval ve sboru bas, a oslovil ho tiše skřehotavým, jakoby buzerantským hlasem, jaký vyrábí zejména oxfordská universita: „Richard, would you mind a drink with me?“ – „Oh, not at all, old chap, not at all,“ odpověděl oslovený Richard podobně skřehotavě, i když asi o oktávu hlouběji, a pak oba i s farářem zmizeli malými gotickými dvířky do sakristie a odtud jinými malými dvířky ven na hřbitůvek. Almarovitý Richard se musel v malých dvířkách hluboce předklonit a lézt tak zvaně na štorc. Mezitím se ostatní sboristé došvitořili k hlavnímu vchodu a počali též odcházet a rozcházet se ke svým domovům.
 
-\* \* \*
-
-  
+* * *
 
 _The Rectory__,_ neboli fara, byla budova rovněž středověká a značně rozlehlá. The reverend John Smith se v ní musel cítit dosti opuštěně, protože jako anglokatolík nebyl ženat a neměl ani děti. O pořádek a hlavní večerní jídlo se mu starala kostelníkova žena, zahradu obstarával kostelník, ale ti na faře ani nebydleli. Světlo skomírajícího dne svítilo skrze zeleň keřů malými okny kosočtvercových tabulek, zasazených do olověné mřížky, a osvěcovalo středověkou světnici s nízkým trámovým stropem a obrovským krbem, ve kterém se dalo sedět u ohně. Pokud v něm oheň nehořel, měl ovšem funkci zcela opačnou, totiž jakéhosi nepříjemného vlhkého větrání a čišení, jako by se do místnosti otevírala chladivá skalní sluje. Podlaha byla cihlová, sem tam pokrytá nevydatnými zašlými koberečky, stěny vybílené, už trochu do žluta, nábytku poskrovnu. U velkého trnožového stolku seděl reverend Smith se svým mohutným arogantním hostem a popíjeli whisky z vhodných skleniček. Na vedlejším stolku stál broušený „decanter“.
 
@@ -61,9 +57,7 @@ Předepsal mu ještě nějaký melleril a pak se odporoučel.
 
 Reverend John Smith osaměl a měl pocit, že se nic nedověděl a že si to všechno mohl klidně odpustit, tj. onen pocit, jaký mají rozumní lidé po konversaci s většinou odborníků na mentální zdraví.
 
-\* \* \*
-
-  
+* * *
 
 Podivné zjevení však po mellerilu nezmizelo, nýbrž opakovalo se se zvláštní pravidelností téměř den co den a pak rok co rok. Reverend Smith si na strašidlo už pak jaksi zvykl a rozhodl se, že nejlepší způsob bude jeho existenci přijmout, avšak o ní nikde a s nikým nehovořit. Když se ho Richard příležitostně zeptal, jak mu je a zda zjevení ještě vidí, odpověděl John, že je mu již dobře, a o vidění se nezmínil. V tomto kontextu to pak vypadalo, že už nic nevidí a nic ho nestraší, ačkoliv explicitně nic nepopřel, a tudíž nelhal. Tento způsob povoluje jak církev katolická, tak i anglokatolická, a asi všechny a říká se mu tajná zámlka, latinsky _reservatio mentalis._
 
@@ -83,17 +77,13 @@ Je nutno dodat, že John byl zmizením ducha jaksi zklamán, ba rozlítostněn, 
 
 Nicméně pokračoval v modlitbách za tohoto ducha, jehož pokládal za duši v očistci, a také při mši na něho pamatoval při vzpomínkách na mrtvé.
 
-\* \* \*
-
-  
+* * *
 
 Tak plynula léta a překulilo se jich dalších dvacet. Reverend John Smith byl nyní již starý člověk. Mnoho se změnilo, svět se stal ještě surovější a cyničtější než v jeho mládí, objevy vědy se zdály ještě hostilnější k článkům křesťanské víry než kdy předtím. Ale John Smith netrpěl pocitem, že snad promarnil svůj život ve službě nesmyslu, neboť jeho víra zůstala neotřesená, obecná, pevná, živá a stálá.
 
 Nelitoval ani toho, že nepoznal ženu – bral to vážně a skutečně nepoznal – byl jak rozhodný anglokatolík, tak i naštěstí hyposexuál­ní – jediné, čeho litoval, bylo, že nemá děti – ale i to odevzdaně poroučel Bohu. Jak léta šla, nedostavovalo se pořád žádné oslnivé mystické poznání, jak v mládí doufal, že se ho snad dobere, nicméně přece jen jaksi dozrával, moudřel a smiřoval se se světem. Snad tedy toto bylo ono poznání – méně výrazné a dramatické, než si představoval, snad svou subtilností se vymykalo přímému jasnému rozpoznání své povahy či podstaty, ale přesto snad bylo s ním. Nevěděl to a ani ho to už nijak nezajímalo. Viděl mnoho tragedií a malých skrytých dramat ve své vesničce a v těchto osudech se mu odrážel celý velký svět jako v kapce vody. Ačkoliv téměř necestoval, rozuměl nyní dokonale světu a jeho běhu, jak se odrážel na malém vzorku či modelu ve vesničce Littlethorpe Quoddam, a poznával z vlastní zkušenosti to, co mu vždy sdělovali autoři asketických a mystických spisů: že svět je marný, pomíjivý, zdroj utrpení, ale přitom má, paradoxně, i jakousi krásu, vznešenost a moudrost. Viděl-li nyní třeba jen břečťan na náhrobním kameni, nebo pavouka v síti v koutku starého kostela, jeho duše ty věci jaksi tiše do sebe zabírala, chápala je jediným intuitivním aktem poznání a prožívala nad nimi zvláštní rozkoš a smutek, stavy, které nelze žádným způsobem popsat slovy, protože jazyk nebyl na jejich líčení vytvořen. Miloval všechno, lidi ve vesnici, ať byli jakkoli malicherní a hnusní, přírodu, ať byla při své kráse jakkoli krutá, slunce, déšť i mlhu, koloběh dní a střídání ročních období. Ale nejvíc ze všeho nyní miloval raný podzim, kdy jablka zrají a vlákna babího léta se lesknou v mírném slunci, protože toto období nejlépe odpovídalo celkovému rozpoložení jeho stárnoucího ducha.
 
-\* \* \*
-
-  
+* * *
 
 Jednoho dne, v září, byl právě taková mírný a jasný den, jaký reverend Smith tolik miloval. A toho dne, někdy kolem desáté dopoledne, ho cosi pobídlo, aby vstoupil do kostelíka. Slunce začínalo právě šikmo dopadat okny epištolní strany a rozsvěcovalo sloupy a chrámové lavice. V paprscích jasného, jakoby křišťálového světla bylo vidět poletující zrnka prachu, která zářila jako hvězdy v hlubinách vesmíru. Nejasné reflexy slunce na vybílených stěnách zdůrazňovaly jejich vápenitou zrnitost a zářily odrazem růžově, žlutě, modře a zelenavě. Všechno to mělo jakousi zvláštní zrnitě tvrdou krystalickou čistotu, suchou, voňavou, sladkou a blaživou. Kostel byl prázdný a nesmírně příjemný.
 

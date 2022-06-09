@@ -3,8 +3,6 @@ title: "Jedno ráno a\_večer v\_životě Cypriána Belvy"
 contentType: prose
 ---
 
-  
-
 Kněz se obrátil, zasvítil brýlemi proti oknu a pravil polohlasně rituálním brumlavým hlasem: „Dominus vobiscum.“
 
 „Et cum spiritu tuo,“ odpověděl osmiletý Jan Belva.
@@ -33,12 +31,10 @@ Předně jde vlastně o lidskou oběť s následným rituálním kanibalismem,
 
 Nebo třeba jak jsou ty procesy s nepřáteli lidu a socialismu – taky se nic neděje; vymydlení a elegantně upravení obžalovaní recitují monstrózní doznání, žádají pro sebe co nejpřísnější tresty – všechno je v pořádku, zločinci se dokonce kají – ale ovšem Pracující lid je přísný, co nejpřísnější – tvrdě na ně dopadne jeho pěst, aby nám nekazili krásné budování, bílý den a plno růží kolem – ženy z lidu se hrozí, básníci, národní to umělci a umělkyně, o nich indignovaně napíší do Rudých práv:
 
-> Dnes přece ví už každý vetřelec,  
-> že Praha není Cleveland ani Connecticut  
-> a že kdo nám sáhne na společnou věc,  
-> bude za to spravedlivě pykat –
-
-  
+_Dnes přece ví už každý vetřelec,  
+že Praha není Cleveland ani Connecticut  
+a že kdo nám sáhne na společnou věc,  
+bude za to spravedlivě pykat –_
 
 a mluví všemu Lidu z duše, na rozdíl od lidí.
 
@@ -90,9 +86,7 @@ Kdyby nebyla, byla by to věc tak strašná, že tato malá opatrnost zajisté n
 
 A co se týče té celé posvátné opičárny – cožpak lidé nedělají pro klid v rodině potupnější věci? Tahle věc vlastně ani není potupná, protože dneska vyžaduje i dost velkou odvahu – a Máša, i když je pitomá, si to zaslouží. Jak při něm stála, když byl na dně, jak obratně zpracovala svého otce papaláše, aby vzal Belvu na milost, aby mu nakonec svým vlivem i opatřil sice skromné, ale teplé a nenamáhavé místečko v Akademii.
 
-\* \* \*
-
-  
+* * *
 
 Byla noc, vlhká a mlhavá, toho druhu, která má svou zvláštní, melancholickou poesii. Zblízka se chodníky leskly deštěm a světla pouličních lamp, výkladů a nevydatných socialistických reklam se v nich odrážela jako klikaté různobarevné světelné sloupky.
 
@@ -104,9 +98,7 @@ Cyprián Belva kráčel do mlhy tam, kde z ní neurčitě vystupovaly věže ko
 
 Sáhl do kapsy, vytáhl klíček a otevřel tabernákl. Vytáhl z kapsy baterku a svítil si dovnitř. Pinsetou odstranil víko ciboria, touž pinsetou sáhl opatrně do náprsní kapsičky saka, vytáhl v ní hostii, kterou tam ráno schoval, spustil ji do nádoby, nasadil víko, zavřel tabernákl, opět poklekl a rychle kráčel ven. Zamkl šperhákem, odvázal Bubáčka a pokračoval ve vyvenčování psa, jako by se tak zvaně nechumelilo. Celá akce mu nevzala ani dvě minuty.
 
-\* \* \*
-
-  
+* * *
 
 „Ó, Bože,“ modlila se duše Cypriána Belvy, zatímco tělo se procházelo se psem, „nevím, jsi-li, odpusť mi to, jsi-li. Ó, Ježíši Kriste, nevím, byl-li jsi, či jsi-li, byl-lis vskutku Syn Boží či pouhý filosof nebo náboženský reformátor, někteří říkají i blázen. Ale pro případ, že je to s Tebou tak, jak to učí katolická církev, tedy přijmi mou co nejupřímnější omluvu, že jsem Tě dnes ráno vzal do huby a pak do ruky a že jsem Tě měl až do večera v náprsní kapsičce u saka. Nyní jsem Tě však navrátil, kam patříš, a to s dosti značným risikem, což, jak doufám, oceňuješ. Jistě uznáš, že to bylo těžké tohle vymyslet a zařídit, nejtěžší byl ten klíček od tabernákula, udělat otisk, pak k zámečníkovi a tak. Někdo, kdo do toho do všeho nevidí tak dobře jako Ty, by se mne mohl tázat, proč jsem to udělal, proč to tak skoro každou neděli dělám, proč se na to buď nevykašlu, anebo proč se pořádně nevyzpovídám a neudělám to normálně. Ale Ty, Ježíši, víš, že to není tak jednoduché. Abych se platně vyzpovídal – dejme tomu, že bych se donutil někomu o svých podivnostech povídat – tedy abych se platně vyzpovídal, musel bych mít opravdové předsevzetí více nehřešiti. Ale Ty sám nejlépe víš, že to těžko mohu. Musím přece žít manželsky se svou ženou; je ještě dost mladá a tak dále, nemohu ji nutit k abstinenci. Ale Ty víš, že abych byl vůbec něčeho schopen, musím si představovat různé věci, které jsou jasně hříšné, jako na příklad že jsem Čachtická paní a bičuju děvčata, nebo různé hnusné věci o Elvisu Presleym a jiných mladých mužích. Také mívám často podobné představy, i když jsem sám, jak dobře víš, jestliže totiž jsi, tím způsobem, jak to učí církev, které nemohu dobře ovládat, ačkoliv jsem se, hlavně v mládí, snažil a postil se, a to i během války, kdy bylo jídla stejně málo – postil se tak, že jsem z toho dostal tuberu, ale nic to nebylo platné. Proč jsem tak udělanej, víš Ty sám, a taky víš, že já to tak nechci.
 

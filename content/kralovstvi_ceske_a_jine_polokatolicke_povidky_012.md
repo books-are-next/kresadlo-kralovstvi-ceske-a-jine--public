@@ -3,8 +3,6 @@ title: Pes genezaretský
 contentType: prose
 ---
 
-  
-
 Je jižně; bělost vápencovitá a suchý chřestot cikád ve křoví, kužele černých cypřišů se pnou, a hrdličky a modří holubi, červených očí, zobců bělavých, se ozývají mezi stromovím. Do jímky padá voda se zpěvem, je jižně, sladce, jaksi hřbitovně. Terasovitě dolů běží stráň, po stezkách bílých, schodech cihlových a domy, rovny bílým krabicím, se vynořují z kučer zeleně, až tam, kde dumné dříme jezero. Za vlnou vlna na břeh naráží, a tiše šeptá snivým pleskotem, a nad hladinou opar spočívá a v dálce zříti modré pásmo hor.
 
 Tu na hladině bílý vzplane bod a zvolna pozvolna se zvětšuje: Zdá se být zprvu vločkou sněhovou, pak rackem, který used na vodu, pak pelikánem, nebo labutí – však nikoliv, to plachta nadmutá, již lehká bríza žene ke břehu a semo tamo, blízko při větru, klikatým letem brázdí hladinu.
@@ -19,9 +17,7 @@ Tu ticho nesmírné se utvoří, pod všemi zvuky, co jich jest, pod houkáním 
 
 A u těch nohou chtěl bych ležet vždy a u těch nohou chtěl bych zcepenět.
 
-\* \* \*
-
-  
+* * *
 
 Zajisté jste zpozorovali, že tento text je psán prosou: Prosa je to, co se píše normálně do řádků, kdežto poesie je ve sloupcích. Tak tomu alespoň bylo donedávna: Nyní je poesie taky to, co, jsouc psáno ve sloupcích, má jakési asonance, např. „lyceum“ a „rozum“ nebo „navždy“ – „za zdí“, přičemž počet slabik v jednotlivých řádcích sloupků zůstává libovolný, jako před dobou asonancí. Proto se znalci poesie a vůbec literatury ve vašich řadách jistě pozastaví nad tím, že to má místy takový přeházený slovosled jako třeba „mužů vousatých“, místo „vousatých mužů“ a tak podobně, což tam přece nemá žádnou funkci, že ano.
 
@@ -35,9 +31,7 @@ Ale i kdyby tomu tak nebylo, je tento druh představy jistě hrubě excentrick�
 
 Protože, podívejte se, kam by to vedlo: Když si to ten člověk představuje o sobě, mohl by si to představit taky o jiných, o tom a o tom, ale hlavně o mně, kterýž jsem přece tím a tím a opět tímto. To by bylo ovšem naprosto nepřípustné – taková bláznivost!
 
-\* \* \*
-
-  
+* * *
 
 To se ví, vy vždycky všechno zkazíte, hloupí inteligenti.
 

@@ -3,8 +3,6 @@ title: Výletníci
 contentType: prose
 ---
 
-  
-
 Policejní člun se přiblížil a dával znamení. Muž u kormidla vyhodil rychlost, šroub se přestal otáčet a vyhlídkový člun se zastavil. Výletníci, sedící nahoře na střeše a opalující se v letním slunci, zírali indignovaně temnými brýlemi na policajty, jak přirážejí k jejich plavidlu, zachycují se jakýmsi hákem a jak důstojník vyskakuje na krytou palubu. Zasalutoval se zdvořilou korektností a oslovil muže u kormidla: „Dobrý den, občane, účel jízdy?“ – „Rekreační, pane kapitáne,“ řekl kormidelník. „Exkurse do potopených zbytků chrámu svatého Hilarióna – Xylona, národní podnik.“ – „Ten člun máte v nájmu?“ – „Ne, pane kapitáne, ten je podnikový, odborový.“ – „Máte na to papíry?“ – „Ano, prosím, tady.“ – „Hm! – a – navigační patent – máte?“ – „Tady, prosím.“ – „Můžu vidět vaši občanku?“ – „Prosím.“ – „Dobrá, to se shoduje. Osazenstvo kontrolovat – to snad tedy ani nemusím – ale ručíte mi za ně, rozumíte. Žádný nedovolený rybolov, nebo tak – žádné nahé koupání. Víte, že jsou na to zákony. Tak si ten rekreační výlet dobře užijte – na shledanou!“ Kapitán zasalutoval, vlezl přes brlení do svého člunu – „odražte“ – řekl své posádce – a odfrčeli, ponechávajíce za sebou pruh zpěněné vody.
 
 Muž u kormidla vyhlídkového člunu zařadil rychlost a plavidlo se rozjelo. Byl to člun jakéhosi krabicovitého tvaru, asi deset metrů dlouhý. Dole byly dvě řady lavic, u každého okraje delší strany jedna, proti sobě. Nad touto vlastní palubou byla víceméně plochá střecha, ponechávající vzadu, nad šroubem a kormidlem, jakousi volnou platformičku. Z té se dalo po žebříčku vylézt nahoru na tu plochou střechu a všichni výletníci z Xylony, v počtu asi patnácti osob obojího pohlaví a rozličného věku, to toho letního nedělního rána udělali.
@@ -35,9 +33,7 @@ Když totiž byla roku X v sovětském impériu krvavě potlačena poslední po
 
 Rekreanti se pohnuli směrem k oltáři: Klenba kněžiště s tzv. lucernou (asi tedy to určitě byla pseudogotika) ještě držela: Plavci se potápěli, podplouvali pod vítězným obloukem a vynořovali se v kopuli nad kněžištěm, kde byla hladina zčásti pod úrovní klenby a shora proudil vzduch rozbitými okénky lucerny. Zde viseli, tvářemi dolů v kruhu nad oltářem, pozorujíce konání knězovo a tajemně zpodobňujíce anděly, kteří prý se také takto nehmotně shromažďují kolem obyčejných pozemsko-vzdušných oltářů.
 
-\* \* \*
-
-  
+* * *
 
 Jak obřad probíhal, nemohu dobře vylíčit: Jednak církev pro mši pod vodou zřejmě zavedla a povolila různé modifikace, podobně jako je tomu při celebrování v basách, jednak tato situace by mohla svádět k humornému pojednání, a tudíž k jakémusi téměř rouhání.
 
