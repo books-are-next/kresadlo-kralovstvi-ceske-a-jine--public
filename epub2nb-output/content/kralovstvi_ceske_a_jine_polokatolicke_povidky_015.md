@@ -3,8 +3,6 @@ title: Nebozezy
 contentType: prose
 ---
 
-  
-
 Vlak zastavil, bylo slyšet rozličné nádražní hluky a do vagonu se začali hrnout další cestující. Voják, klímající v poloprázdném vlaku, mrzutě vyhlédl a sundal nohy z protějšího sedadla. Také ostatní čtyři vojáci směřující ku Praze se poněkud probrali a napřímili. Voják ty čtyři ostatní neznal, byli od jiných útvarů a jiných zbraní, sešli se až ve vlaku, a ačkoliv je jistá solidarita společného osudu svedla dohromady, že si sedli v jednom oddělení, přece jen se spolu příliš nevybavovali. Bylo pravděpodobné, že aspoň někteří z pětice jedou do Prahy načerno a v mentálním klimatu Čepičkovy armády, kdy se podporovalo a odměňovalo udavačství, bylo lepší žádné informace s druhými nesdílet z těch a z těch a opět oněch nasnadě jsoucích důvodů.
 
 Voják jel ve vlaku nejdéle, skoro od hranic, a proto seděl nejpohodlněji u okna, ale také už byl z kodrcání jízdy nejunavenější a nejotlačenější. Cestu trávil líným pozorováním ubíhající krajiny, pospáváním a pokuřováním, sněním a nevydatnými úvahami. Chvílemi též stručně hovořil s ostatními vojáky, aby se nezdálo, že se snad odtahuje, nebo něco. Nejel na dovolenou, ale na vyšetření plic do vojenské nemocnice na Hradčanech, neboť již delší dobu pokašlával, hubnul a k večeru míval subfebrilní teplotu. Po delší proceduře, kdy byl napřed pokládán za simulanta, pak konečně přijat na marodku, pak vyšetřen v obvodní vojenské nemocnici, kde simulaci potvrdili – a když přes negativní nálezy vojenských odborníků pořád kašlal, hubnul a večer topil, dostal nakonec útvarový lékař, četař aspirant Hrachovina, geniální nápad, že by vojín Parma mohl mít něco s plícema, a poslal ho na ústřední tuberácké vojenské oddělení v Praze na Hradčanech. Tato Hrachovina se stala později primářem v Mostě, ať to každý ví, že neschopní doktoři nejsou jen v zemích anglického jazyka, i když tam je jich asi procentuálně přece jen o něco víc. Ostatně co? Nakonec to byla přece jen zmíněná Hrachovina, která, na rozdíl od ostatních vyšších zdravotních náčelníků, pojala správnou a nasnadě jsoucí diagnostickou hypothesu, takže se jevila mezi vojenskými lékaři jako příslovečný jednooký ve slepeckém ústavě. Blbost má stejně ve vojenském lékařství slavnou tradici, jak ukazuje nejen dobrý voják Švejk, ale nepřímo i jiné klenoty českého písemnictví:
@@ -71,10 +69,10 @@ Parma nevztáhl po láhvi ruku, ale naopak odstoupil. Cosi se dralo na povrch je
 
 Parma udělal proti mužíkovi ve vzduchu veliký kříž a jako ze sna recitoval:
 
-> Ecce crucem Domini,  
-> fugite, partes adversae!  
-> Vicit Leo dé tribu Juda,  
-> radix David, alleluja!
+_Ecce crucem Domini,  
+fugite, partes adversae!  
+Vicit Leo dé tribu Juda,  
+radix David, alleluja!_
 
 Prásk!!
 

@@ -3,8 +3,6 @@ title: Království české
 contentType: prose
 ---
 
-  
-
 Archeo Pteryx seděl na lavičce v parčíku a čekal. Sklánějící se slunce jaksi zušlechťovalo beznaděj proletářské čtvrti a dodávalo všem věcem jakousi duchovou monumentálnost. Ohyzdně rudé květy na záhonku, tvrdé jako bolševik, náhle měkce žhnuly, zavírajíce kalichy, chodník zrůžověl a stíny na něm něžně zmodraly. Západní strana melancholicky jásala roztavenou mědí. Nitro Pterygovo bylo napjatě slavnostní. Hurválek prošel a zabočil do stoupavé ulice. Pteryx vysunul zápěstí z rukávu a začal nenápadně pozorovat minutovou ručičku. Připadalo mu to jako počítání při provádění nějaké skladby s fugovanými nástupy – Hurválek už nastoupil, tak teď: ráz – dva – tři – čtyři – ráz – dva – tři – čtyři, jenom nezmeškat nástup vlastní.
 
 Chybělo mu to poslední léta, kulturní úderky a podobně to nemohly nahradit. Nejen k vůli kaditelnění slunci Stálinovi a tak, to už nikdo ani nevnímal, ale vlastní muzika byla skoro vždycky blbá. Proto velice uvítal, když se u nich doma objevil Kodra. Byl teď nějakým měřičem šroubků ve fabrice, nebo co, ale existoval: Vidí-li člověk na vlastní oči, jak je snadné neexistovat vůbec, jeví se náhle i existence měřiče šroubků téměř vznešenou.
@@ -31,9 +29,7 @@ Tato představa měla jakousi nesmyslnou krásu a vznešenost, jako ji má již
 
 Minutová ručička odpíchla deset minut a Pteryx automaticky dofilosofoval. Zvedl se a kráčel směrem k postranní uličce, kde předtím strmě do kopce zmizel Hurválek. V duchu si opakoval namemorované instrukce: Tak tady to je – dozadu do chodby a pak do prvního patra –
 
-\* \* \*
-
-  
+* * *
 
 Polekal se nahého viselce, až pak zjistil, že je to jen socha. Ukřižovaný v životní velikosti působil v temnu chodby nepříjemně skutečně. Ještě z něho někdo dostane infarkt. Pteryx sáhl do kapsy, vyndal sirky a škrtl – ano – jak předpokládal – olej, zdá se, je – rozsvítil věčné světlo a to se řeřavě rozhořelo v červené skleničce. Zkroucené probodené nohy byly teď jasně osvětleny, zbytek umučeného těla se ztrácel v šeru, které se teď, kontrastem s lampičkou, stalo zeleným. Visel tam a strašil, hrůzný symbol absurdního náboženství. Tule. Nejpotupněji popravený. Jak by na dnešního člověka působilo náboženství, které by mělo svým hlavním symbolem šibenici a obraz oběšence?
 
@@ -45,9 +41,7 @@ Cože?! A zrovna hovno! No pasaran!
 
 Archeo Pteryx se pokřižoval, napůl ironicky, napůl vážně, a vystoupil do patra.
 
-\* \* \*
-
-  
+* * *
 
 „Kluci, kdyby něco, tak tady ten klíč jsem si dal dělat sám a jsme tu na černo – farář vo ničem neví – jasný? Tak, Honzo, rozdej noty.“
 
@@ -61,9 +55,7 @@ Tři tisíce jeptišek! No, ty musely ale smrdět, v tom Buenos Aires, v tom h
 
 Tři tisíce jeptišek! Tak ke všemu to ani není, jak si to ten skladatel představoval – o oktávu nebo o nějakou kvintu níž a jen v šesti. Tak teď už to není ani ten don Quijote, teď už to je starý dobrý Josef Švejk! Ale právě proto tady zůstanu, a zrovna. Ach, Bože můj! Nahlas však řekl pouze: „Nepovídej! To je zajímavý. Tři tisíce jeptišek, říkáš?“
 
-\* \* \*
-
-  
+* * *
 
 Ale otrava to náhodou nebyla. Záhadný Vito Mascherata se ukázal tajným granátem. Nebylo to vůbec jako Tregler nebo jako Říhovský, spíš jako Antonín Dvořák střižený starým Caldarou. Byl z minulého století a neznámý, ale kupodivu dobrý. Ostatně, kdoví jak by dopadl náš mistr Antonín, kdyby neměl náhodou za švagra hraběte Kounice? Možná jako ten Mascherata – obskurní církevní varhaníček a skladatýlek, o kterém se přece jen ví, proto tu jeho skladbu vybrali na ten eucharistický kongres, ale jinak na něj světské moci kálí – – – Co se týče těch tří tisíců či tisíc jeptišek, zdálo se, že to byla snad pouze monstrosita pořadatelství kongresu, se kterou neměl skladatel co dělat. Podle zvuku to naopak vypadalo, že měl na mysli malý soubor, třeba tedy ty jeptišky, tak šest až dvanáct bab. A mužská poloha tomu taky nevadila, spíš se zdálo, že _tak_ to ten Mascherata původně myslel, ale snad neměl možnost provedení, snad dělal varhaníka někde u sestřiček – a tak to všechno strčil o kvartu dolů, tj. o kvintu nahoru, přepsal spodní hlas do houslového klíče a řekl, že tedy ten trojhlas je ženský.
 
@@ -71,9 +63,7 @@ Legálně-ilegální zpěváci se nato celkem třikrát sešli a po třetí už
 
 Žil byl kdysi jakýsi Vito Mascherata, možná, že se tak ve skutečnosti ani nejmenoval, a ani nevíme, kdy a jak – on totiž ani není v žádných hudebních encyklopediích. Pak umřel, zmizel, ale nechal po sobě pěknou mši pro mužský či ženský trojhlas a varhany. Zmizel, ale zanechal po sobě stopu, jakousi brázdu v ideativnu, nebo co. I když jen na čas, i když jen nenápadnou – kdo rozumí muzice, tomu se ta mše musí líbit a musí ji ocenit. Kdo muzice nerozumí a orientuje se jen podle vnějších znaků – na toho právě Vito Mascherata vyzrál, že mu jaksi uniká, nenechá se od něho očuchávat a ohmatávat. A to má všechno zvláštní krásu a snad nebo určitě větší, než kdyby měl pomníky a hory bibliografie. Pteryx už přestal litovat, že se na to dal od Kodry zlákat – třeba to všechno dopadne dobře, tak jako nakonec dopadl dobře výběr skladby, vykazující zpočátku hrozivé příznaky ve formě neznámého autora z minulého století a tří tisíců jeptišek. Jediným nedostatkem byl mečivý zvuk prvních tenorů, representovaných katolickým krejčím Pospíšilem a komerčním inženýrem Šmidrou a připomínající rejstřík _vox humana_ na varhanách u Ludmily. Avšak nic lidského není dokonalé a naopak bylo lze tento zvuk brát jako přídech určité gotické pitvornosti, na způsob chrličů, oplzlého Mastičkáře a tak. Celkově vzato, šlo všechno jak na drátkách: Zatím je nikdo na zkouškách nevybral – asi o nich opravdu nevěděli, nebo to nepokládají za důležité – a co se týče provedení, to se bude konat zatím mimo Prahu, ve venkovském kostelíku jen pro spolehlivé pozvané – později – dá-li Bůh –
 
-\* \* \*
-
-  
+* * *
 
 Silnice se táhla – rovná a šedomodrá budovatelská asfaltka. Na levé straně Pteryx právě míjel panel, hlásající, že Se Sovětským svazem na věčné časy. Šmidra se tomu smál, ale Pteryx se obával, že by to tak mohlo velmi snadno dopadnout. Byli sami dva, setkali se náhodou v elektrice a nyní kráčeli hbitým pochodem do konečné stanice a jejich cílem byla nejbližší vesnička, kde se právě měla konat polotajná zpívaná mše – ve všední den a večer – dárek farářovi k svátku. Bylo to na dnešní pojmy pěšky dost daleko, ale tehdy se víc chodilo pěšky a tak daleko to nepřipadalo, všichni víc chodili – osobní auta byla u nás v té době takový přepych jako dnes asi motorové čluny. Však byla ta silnice také prakticky prázdná, a proto se po ní dalo rázovat zcela bezpečně.
 

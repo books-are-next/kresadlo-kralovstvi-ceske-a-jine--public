@@ -3,8 +3,6 @@ title: Temnota
 contentType: prose
 ---
 
-  
-
 Torba pohlédl na slunce, které pálilo mázdrou kouřových mračen, a pomyslel si, že je to ten olověný měďák indiána Ratzapise z románu _Der Gang der blinden Schlange_ od Böhlera a Ladislava Klímy. Kus toho vyšel v českém překladě v Klímově „festšriftu“, k sedmdesátému výročí jeho zrození a dvacátému jeho smrti – přesně onoho fatálního roku devatenáct set čtyřicet osm. Ještě to vyšlo – pěst Pracujícího lidu se svírá sice jistě, ale pomalu, spis měl však už předmluvu, ve které se jakýsi jelimánek naivně snažil smířit Klímu s marxismem. Vzápětí se pak nad českým duchem zavřela smrdutá hladina sovětského azijství – odpočívej v pokoji. Všude kolem, na marťanských kopečcích hlíny, se hemžili mladí lidé obojího pohlaví, kteří však se podobali spíše rekreantům u vody než dělnické třídě v boji za nové ocelové srdce republiky. Dívky měly různé slušivé plavečky a opalovačky, brýle proti slunci a na hlavách šátky, koketně uvázané ve formě turbanů, různých kokrhelů, středověkých točenic a kočičích oušek. Podobně, i když jednodušeji, byli upraveni i přítomní jinoši. Psal se nějaký ten rok padesát dva nebo tak. Všichni dělali na výkopu nějakých snad příkopů či zákopů pro vložení potrubí, nevím, jak se tomu správně říká, ale moc toho nepodělali. To však vlastně nevadilo. Akt brigády byl aktem spíše sakrálním než praktickým – manifestací dobré vůle a splynutí s dělnickou třídou, ostatně předáci na stavbě Nových hutí Klementa Gottwalda museli často úporně přemýšlet, jak a kde studenty zaměstnat – podle nezaručené legendy dávali prý různým studentským brigádám postupně vykopávat a zase zahazovat tentýž zákop – na tom vlastně nezáleželo, šlo o princip.
 
 Torba pozoroval kritickým okem nejapné hemžení budoucích mozků republiky. Dělali vždycky v partách po třech – nereálnost mythu o fysické rovnosti mužů a žen jim ještě nedošla – jeden kopal, jeden házel a jeden vozil kolečko. I mužské trojice však udělaly za šichtu asi tolik jako jeden jediný profesionální dělník za stejnou dobu, kdyby se příliš nepřetrhl. Torba to věděl, protože jím několik posledních let byl. Byl totiž v roce 49 třídně zničen, ale nedal se, takže nyní byl již třídně obnovován.
@@ -25,9 +23,7 @@ Soudruzi Miška a Knestl byli vskutku dělníci, ale s lopatou neměli nikdy c
 
 Slunce pálilo, Torba házel lopatou a soudruzi pokuřovali, provokujíce.
 
-\* \* \*
-
-  
+* * *
 
 Tváře fízlů se podobaly nejrozličnějším zvířatům: nejvíc prasatům a hyenám, ale bylo zde i něco koček, kolčav, zlých psů, mulů a jeden velbloud. Ačkoliv možná, myslel si Torba, že se mi tak jen zdají, protože vím, co jsou zač. Kdybych to o nich nevěděl, nenapadlo by mi to asi vůbec, ještě bych před nimi i něco řekl a šel bych do zášivny. Nicméně se bystře rozhlížel a snažil se vrýt si jednotlivé tváře do paměti. Ale těžko: bylo jich tam jako máku snad do sta, nebo i přes: Zatímco v Torbově mysli probíhaly právě popsané mentální procesy, otvíral mechanicky hubu a vyluzoval s dalšími sedmi lidmi kulturní úderku:
 
@@ -47,17 +43,17 @@ Na scénu vstupuje soudruh Klen. Je to ten druhý, co zpíval s Torbou bas. Tor
 
 Soudruh Klen se uklání a kráčí k pianu, o něž se elegantně a tak zvaně nonšalantně opírá. Vypadá velmi pěkně v modré svazácké košili a bílých plátěnicích a úderka (nastoupila v uniformě, Torbovi košili někdo půjčil: na vojně ho sice do ČSM zapsali, ale nikdy se o to nezajímal a ani košili si nekoupil) poněkud lidově. Dost vysoký, tak asi 180, štíhlý, vlasy na americký crewcut a s tou bradičkou. Tvář pravidelná, skoro až příliš krásná, nyvé mandlové oko, vypadá skoro jako štíhlá holka, převlečená a namaskovaná za mladíka. Smolíček odbrnkává melancholicky-ruskou předehru a soudruh spouští:
 
-> Ax, ty, nočeňka,  
-> nočka tëmnaja,  
-> nočka tëmnaja,  
-> ej, nočka seraja…
+_Ax, ty, nočeňka,  
+nočka tëmnaja,  
+nočka tëmnaja,  
+ej, nočka seraja…_
 
 Ukazuje se, že soudruh Klen má krásný basbaryton, měkký, ale přirozeně nosný a zpěvný, kulatý, jemně vibrující jako cello v rukou virtuosa. Lahoda. Také písnička je pěkná. Není v ní nic o slunci Stalinovi, ani o svobodě sovětského člověka, nad niž není větší, ani o borbě za mír, jenom o noci, temné a šeré noci, kterou první strofa pouze oslovuje čili apostrofuje, s patřičným opakováním ruské lidové šíře.
 
-> Čtož ty, nočeňka,  
-> obtumanilas’,  
-> nočka tëmnaja,  
-> nam prinaxmurilas’?
+_Čtož ty, nočeňka,  
+obtumanilas’,  
+nočka tëmnaja,  
+nam prinaxmurilas’?_
 
 Zpívá teď krásně, medově a dojemně Klen a Torbovi svítá:
 
@@ -67,9 +63,7 @@ Vždyť to je vlastně protest song, podaný formou tak nenápadnou, jak jen mo�
 
 Klen skončil a shromáždění zaburácelo. Lidová píseň měla podstatně větší úspěch než borba za mír. Byl-li to pouze medový hlas zpěvákův, smutná ruská melodie, nebo i skrytý smysl písně, zřejmý snad i fízlům, částečně třeba též nedobrovolným, nedalo se určit. Úspěch však byl. Poté úderka za potlesku vypadla a odebrala se k ubikacím, neboť co následovalo, byly už tajné transakce fízlonošů.
 
-\* \* \*
-
-  
+* * *
 
 „Jo tož, dež sem bel ešče malé chlapčisko, chodile zme takému velkému sedlákovi na podmáslé – však kulakovi – už je s ňém též konec“ – vykládá soudruh Knestl veselou příhodu. Soudruh Knestl je ze země pestré orlice, která rodí takéto koňstvo, ale Holomóc nebo Brno nejsou hodny jeho génia. Naopak ho soudruzi vyslali do Prahy, ať se vzdělává lépe a radostněji, našim pracujícím to nejlepší. „A on se nechál slyšet, že keho tám chytne, tomo dá bečiskem. A tož zme šle do kaplečke a tam bel takové ten Kristus domordované, s tó třtinó, ecce homo, však, pravda, takové ten plašmoška. Tož teho zme vzale a postavele do teho sklepa s tém podmáslím, a ztropjéc hluk zme hutékle. Ale skovále zme se za plotem, že bode prča. A též bela. Jag ten kulak veleťél s bečiskem a do teho sklepo, však tam belo dobře zvenka vedět, takovy to belo sklepisko klenuty, a teď vedi, že tam při tém podmásľu čapí jakési chlap – belo tam šero jag ve sklepi a ešče belo večér – ale vedět, co se tám děje, belo dost dobře. A tož on: ‚Tož te pacholko, te me bodeš na podmáslé chodět?‘ – Vzal bečisko a jag ho beje, tag ho beje, teho Krista domordovaného – hehehehehe.“ –
 
@@ -115,9 +109,7 @@ Bylo to prvně, co ho viděl jen tak, bez šatů. Díval se na něj už tehdy s�
 
 Obludná absurdita situace mu plně vyvstala až při kolektivní zábavě na trávníku před ubikací – už ta věc, že ho Klen ke zpěvu vyzval, už píseň, kterou navrhl. Klen zřejmě věděl, o co jde, netápal v nezkušenosti, která neví, která si neodvažuje uvědomit, která se hrozí a diví. Ale nyní věděl už i Torba. Jak totiž se na něj Klen zadíval při střední části písně, pohnula se bolestná slast v Torbových prsou a vystřelila dolů, fysicky brutálně a jaksi výsměšně: Toto, tohle je ta zdánlivě duševní slast a hvězdné přátelství, to se z ní vyklubalo, abys věděl. Myslel, že snad omdlí. Seděl zde zmaten a díval se zahanbeně do země. Pro boha, co se to se mnou stalo? Vždyť já jsem normální! Znal to již z dřívějška, z doby první puberty, kdy tímto způsobem cítil v souvislosti s jedním učitelem a jedním spolužákem. To však brzy zase zmizelo a na scénu vystoupily ženy. Nyní byl Torba již pětadvacetiletý – soudruzi ho ohavně zdrželi – a návrat těchto pocitů věru nečekal. Nebyl už také dávno panic – sice toho času nic neměl, ale byl unaven z práce, a tak mu to ani nevadilo. Líbal se tady sice už s jednou kolegyní, ale zvlášť ho nezajímala a brzo se jí ujal někdo jiný, což Torbu mrzelo jen nepatrně – právě proto se ale tím víc překvapil a poděsil – ach, co se to s ním jenom děje?
 
-\* \* \*
-
-  
+* * *
 
 Brigádníci v ubikaci chrápali, oddychovali a bzděli. Byli unavení těžkou prací a spali zdravě. Nespal jen Torba. Byl na výsost rozčilen, převaloval se a občas se díval na fosforeskující ručičky svých hodinek. Až o půlnoci – ach, jak to je zvláštní, morbidní, zrůdné, absurdní, ale za nic by to nezmeškal.
 
@@ -129,19 +121,17 @@ Nyní se tedy Torba převracel a čekal. Srdce mu bušilo a tváře žhnuly, u
 
 Kmitlo mu sice, že to, co chce udělat, je tradičně hřích – ale co – za prvé je to všecko jenom židovská mythologie – za druhé kdyby to tak bylo, tak proč mě tak udělal, vždyť já to přece nechtěl – před vnitřním zrakem mu vytanula Klenova tvář – vypadá jako – ne – ne – neříkej to, to nesmíš, nemůžeš – nevím jako kdo! nevím! – jako nikdo! – jako – jako Patroklés z té známé mísy, jak mu Achilles zavazuje nohu. Měli ten obraz ve škole v nějaké učebnici, ale tam v té školní verzi měl Patroklés vyzmizíkované přirození. Později Torba viděl jiné reprodukce této keramické malby a teprve tehdy si to školometské pokrytectví uvědomil – Patroklés tam má sice jiné proporce než Klen, ale má také výrazné oči a černý vous – krásný, krásný, už aby byla půlnoc.
 
-\* \* \*
-
-  
+* * *
 
 Ručičky dolezly ke dvanáctce a Torba se zvedl. Odhodil deky a opatrně se svezl ze svého kavalce, aby nevzbudil Smolíčka, který spal pod ním. Ale ten zařezával jako drvoštěp. Noc byla černá jako prázdná propast. Měsíce nebylo, hvězdy mizely za ostravským kouřem. Celá škola, proměněná v ubikaci brigádníků, hluboko spala. S tělem, vzedmutým zrádnou vášní, s bušícím srdcem, našlapoval Torba tiše bosýma nohama a tápal rukama, vztaženýma před sebe. Nebylo skoro nic vidět, šel prakticky po paměti. Vlezl na záchod, otevřel okno, protáhl se a dopadl na štěrk venku. Zvedal se vítr, ozdobné cypřiše, nebo co to rostlo před školou, se rozkymácely. Byly vidět proti poněkud světlejšímu nebi jako kývající se bubáci. Mezi mraky smogu blikala malá vzdálená hvězdička, jako by stříbrně pípala osamělostí světelných roků. Torba zahnul za transformační staničku, kde tma zhoustla tak, že byla téměř hmatatelná. Zatápal, našel kramlový žebřík a položil bosé chodidlo na první studenou železnou skobu. Lezl vzhůru, hmataje po dalších záchytech, nebylo v tom rohu opravdu vidět na krok.
 
 Aj ta, nočeňka, nočka tëmnaja – nocko, nocko, nocko čmava – náhle to projelo jeho vědomím jako blesk, jako obnažený meč.
 
-> Em una noche obscura  
-> Con ansias en amores in flamada  
-> ¡Oh clichosa ventura!  
-> Sali sin ser notada  
-> Estando ya mi casa sosegada…
+_Em una noche obscura  
+Con ansias en amores in flamada  
+¡Oh clichosa ventura!  
+Sali sin ser notada  
+Estando ya mi casa sosegada…_
 
 Nu ano – všechno je tady: černá, neproniknutelná noc, hluboce spící dům, jeho znenadání divně poženštilá duše, vystupující po tmě po skrytém požárním žebříku na plochou střechu, aby se tu setkala s milencem, který vypadá – vypadá jako – pod Torbou se náhle otevřela propast nezemské hrůzy. Pahýl zrůdné vášně se odkrvil. Torba se třásl a zuby mu cvakaly, ale pokračoval nahoru, aby čelil, aby konfrontoval. Stanul na střeše a musel se opřít o zábradlí. Od půdového nástavce se oddělil temnější stín.
 
@@ -153,9 +143,7 @@ Nu ano – všechno je tady: černá, neproniknutelná noc, hluboce spící dů
 
 Torba se hystericky rozchechtal. „Jak to vím? Jak to vím? – No to přece vyplývá z logiky věcí, že ano – ale poslyš, čert existuje! – No, to by dneska němej neřek, s těma koncentrákama a tak, ale zřejmě existuje taky ten druhej! Ty bys moh sice říct, že třeba je jenom ďábel, podle toho, co se pořád děje, a nikdo to nezaráží, ale není to tak! Protože, proč by se chtěl posmívat něčemu a parodovat něco, co není, že?! Já ti to bohužel nemůžu dobře vysvětlit, vlastně bych moh, ale trvalo by to dlouho, a vlastně nechci. Tak se nezlob a všechno nejlepší. Adíos!“
 
-\* \* \*
-
-  
+* * *
 
 „To je ta nejpodivnější historka, kterou jsem kdy slyšel,“ řekl kněz.
 

@@ -3,8 +3,6 @@ title: Sebekritika
 contentType: prose
 ---
 
-  
-
 Soudruh asistent se tváří podobal psohlavému paviánu s brýlemi. On se původně domníval, že je jako ten soudce opičák, který odsoudil Pinocchia na čtyři měsíce za to, že mu Lišák a Kocour ukradli čtyři zlaté mince. Ale nebylo tomu tak: Nahlédnutím do autentického textu později zjistil, že Pinocchiův soudce byl sice také opičák, ale starý a gorila, kdežto soudruh asistent byl kromě jakéhosi paviánství dosud mladík. Na asistenta marxismu byl nezvykle inteligentní, což se již začínalo jevit bolným výrazem jeho blízko u sebe posazených očí, které hleděly do světa ztraceně a udiveně přes brýle a rypákovitý nos. Byl to původně dělnický kádr, ádékář, jeden z mála skutečně inteligentních, a počal se rozhlížet po světě a rozum brát teprve nyní, už jako čerstvě upečený universitní učitel, nadosmrti s marxismem skopulovaný. Začínalo se mu to ale čím dál tím víc nezdát a nepasovat do figury. Zatím byl naivní, myslel si, že to buď jenom dost nezná, nebo že se to musí trochu sem tam doplnit, jenom malinko přistrouhat a všechno bude zase v pořádku. Ale to se ví, že to tak nejde. Jedinou inteligentní taktikou kudy z konopí, když začne pochybovat vlastní inteligence, je povolit dogmatické kleště: Ať si každý věří, v co chce, ovšem v mezích, a přitom ať podporuje dál mateřskou organisaci, jinak bude kurník. Ale Rusi o těch kumštech ještě nevěděli, žili dosud pořád v psychologickém středověku a tak působili svým inteligentnějším kazatelům zbytečné objektivní i subjektivní trápení: Soudruh vlastně vzbuzuje i určité sympatie. To, že připomíná paviána, také není nic potupného: On se totiž skoro každý podobá některému zvířeti, jestli jste si dosud nevšimli, tak si teď všimněte. Před marxistou seděli, víceméně jako zařezaní, studenti v počtu asi patnácti. Mělo se právě tak zvaně diskutovat. Diskutovat na seminářích musel každý, kdo chtěl dobře prospívat z marxáku (soudruhu, nemohu vám dát výbornou, protože jste nediskutoval). Diskutování se vyžadovalo, ale vlastně zároveň zapovídalo, protože nikdo nesměl vyjádřit vlastní názor ani otázku. Bylo to podobné nemožným úkolům, které prý dávají zen-buddhističtí novicmistři svým žákům, aby je uvedli ve stav satori. Místo diskuse se tady provádělo recitování naučených pravd, přímé otázky byly už potencionálně nebezpečné, neboť marxističtí ideologové v Praze let padesátých dosud nedosáhli ani stupně theoretických námitek, vznášených _posito non concesso._ Takhle to je, a komu se to nelíbí, je nepřítel lidu!
 
 Za těchto okolností ovšem nebavilo diskutování ani ortodoxní soudruhy, pokud totiž vůbec nějací mezi studenty tehdy ještě byli. Soudruh Bušek, tak nějak se totiž pavián jmenoval, měl i jinak těžkou práci.
@@ -23,20 +21,18 @@ Skrytá tragédie soudruha Buška však nespočívala v tom, že už věděl, �
 
 Vedoucí kroužku a kroužkové skupiny ČSM obcházela své svěřence jako ovčácký pes ovečky: Odpoledne je závěrečná semestrová schůze kroužkové skupiny ČSM, soudruzi, nezapomeňte, tam a tam, v malé posluchárně.
 
-\* \* \*
-
-  
+* * *
 
 Z ulice to bylo až ve sklepě, ale od řeky dost vysoko. Stalin na kopci se díval přímo do oken. Hlava už mu koukala, teď mu odbedňovali ramena. Moloch. Bylo zvláštním způsobem mrazivo a šedivě. Podivno, pomyslil si En, dřív mi to v zimě tak beznadějné nikdy nepřipadalo. Jako by s režimem vtáhlo do naší země i jejich klima, celé jejich prostředí, duch, který povívá širokými prostorami mátušky Rusi. To nebylo jenom to, že se u nás všechno sovětské servilně a nejapně, hlupácky a zbytečně napodobovalo, zdálo se to sahat hlouběji, přeměňovalo to snad i samotnou podstatu země a tohoto národa. Právě teď se například schůze kroužkového ČSM zahajovala písní a tato píseň, prosím, byla rovněž asi předepsaná a ruská, studěntskaja, jenže se zdála napsaná asi spíš pro mediky. Vedoucí kroužku nejapně brnkala na levnou rozladěnou kytaru a kroužek zazníval ve falešném unisonu, nebo vlastně v oktávách, ženy a muži komsomolky cudně zhruba asi osm špriclů od sebe. Kroužek pracující inteligence zněl tvrdě, nehudebně, neohebně, zcela nečesky. Snad se jim, s ostatními věcmi, podařilo importovat i velkoruskou nemuzikálnost – zpěvní Rusové jsou totiž Ukrajinci, jestli to nevíte. Ale spíš to bylo jinak: Lidovou konservatoří v Čechách býval totiž od nepaměti kostel, ale prokádrovaní soudruzi s tím asi neměli moc co dělat – anebo já nevím. Zpěv soudobých studentů zněl však podivně a En si mimoděk vzpomněl na svatého Augustina, který prý někde napsal, že jsou lidé schopní vyluzovati hudební zvuky bzděním. Věru, že asi lépe nežli hudební kroužek hubou. – Melodie byla pompézní, rusky brobdignanská, uměle lidová, plná falešného pathosu a slova pitomě domovnicky sentimentální – o zlatých rukou:
 
-> S odnim želaniem i s dumoju odnoju  
-> so všex krain rodnoj svoej zemli  
-> my sobralisja družnoju semëju  
-> my vse učiťsja masterstvu prišli.  
-> Projdut goda i mesjacy mnogie  
-> kogda sovetskij trudovoj narod  
-> vot, éti ruki, ruki molodye  
-> rukami zolotymi nazovët.
+_S odnim želaniem i s dumoju odnoju  
+so všex krain rodnoj svoej zemli  
+my sobralisja družnoju semëju  
+my vse učiťsja masterstvu prišli.  
+Projdut goda i mesjacy mnogie  
+kogda sovetskij trudovoj narod  
+vot, éti ruki, ruki molodye  
+rukami zolotymi nazovët._
 
 Ještě ke všemu, v rámci svých byrokratických duší, zpívali všichni „zálátými“, ačkoliv tyto slabiky byly dlouhé a pod přízvukem: naučili se, že se v řeči nepřízvučné slabiky na o správně vyslovují do _a_ a nyní to mechanicky aplikovali, i když v písni tyto slabiky naopak byly pod přízvukem. Mozečky! A ještě ke všemu, proč musíme tady, my Češi, zpívat rusky – blbost, no blbost. Prokristapána, mezi jakou bandu jsem se tu dostal, hloupou a fanatickou. Pohlížel na svazácké obličeje a připadal si skrytě nesmírně nadřazeně. Ach, bože, kdybyste věděli, jak vámi všemi hluboce a ze srdce pohrdám, co ze srdce, až z paty, až z prdele! blbci, blbci, blbci, hovada! Jak koukaj – bllll – no, abyste se neposrali, soudruženkové!
 
@@ -104,9 +100,7 @@ Schůze se pak rychle a jaksi rozpačitě skončila, další členy kroužku u�
 
 Jenom En si neodpustil, aby se nerozloučil v duchu stylové jednoty: „Pochválen buď Pán Ježíš Kristus, soudruzi.“
 
-\* \* \*
-
-  
+* * *
 
 En kráčel domů mrazivým městem a v duchu se smál. Náladu měl výbornou, jakoby vánoční. Importovali nám to sem všechno, kurvy, i s tím mrazem a sněhem, který je teď jakoby vydatnější, i s tou svou širokou duší, potvory. Tahle situace přece vůbec není česká, je to snad to nejruštější, co si lze představit: Totiž vlastně ne: ruská byla jen ta první část, vystoupení Duni. Reakce soudruhů byla naopak česká – naprostý nedostatek pathosu, jednání podle selského rozumu, a kvůli tomu to tady dopadlo tak uspokojivě. Žádný pathos, žádné svíjení, čelem o zem bití, žádné házení šelmám. Bůh jako bůh, asi třeba ani žádnej neni, tak jakýpak copak.
 
