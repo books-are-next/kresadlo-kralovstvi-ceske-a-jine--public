@@ -3,6 +3,8 @@ title: Pes genezaretský
 contentType: prose
 ---
 
+<section>
+
 Je jižně; bělost vápencovitá a suchý chřestot cikád ve křoví, kužele černých cypřišů se pnou, a hrdličky a modří holubi, červených očí, zobců bělavých, se ozývají mezi stromovím. Do jímky padá voda se zpěvem, je jižně, sladce, jaksi hřbitovně. Terasovitě dolů běží stráň, po stezkách bílých, schodech cihlových a domy, rovny bílým krabicím, se vynořují z kučer zeleně, až tam, kde dumné dříme jezero. Za vlnou vlna na břeh naráží, a tiše šeptá snivým pleskotem, a nad hladinou opar spočívá a v dálce zříti modré pásmo hor.
 
 Tu na hladině bílý vzplane bod a zvolna pozvolna se zvětšuje: Zdá se být zprvu vločkou sněhovou, pak rackem, který used na vodu, pak pelikánem, nebo labutí – však nikoliv, to plachta nadmutá, již lehká bríza žene ke břehu a semo tamo, blízko při větru, klikatým letem brázdí hladinu.
@@ -36,3 +38,5 @@ Protože, podívejte se, kam by to vedlo: Když si to ten člověk představuje 
 To se ví, vy vždycky všechno zkazíte, hloupí inteligenti.
 
 Vám tak něco vykládat – mohl jsem si to taky nechat pro sebe.
+
+</section>

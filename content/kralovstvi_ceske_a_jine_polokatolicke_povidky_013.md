@@ -3,6 +3,8 @@ title: "Vteřina a\_věčnost"
 contentType: prose
 ---
 
+<section>
+
 Scenérie jako by vyhrávala žesťovým čtyřhlasem tří trombónů a tuby v dušeném výhružném pianu. Na holé stromy, ze kterých kapalo, se věšela mlha. Vzdálenější větve se jevily matnější a jakoby strašidelně nehmotné, což však působilo velmi výtvarně. Také kříže a náhrobky plavaly v mléčné kaši. Hřbitov byl přeplněn mlhou, těžko se orientovalo mezi hroby.
 
 Zaslechl škrábání kovu o písek a pleskavé zvuky vyhazovaného jílu. Hrobník stál v jámě a vyhluboval ji pro nastávající pohřeb. Házel žlutý mazlavý jíl na jednu stranu hrobové jámy. Na opačné straně měl prostřenou igelitovou plenu. Právě když Divák dorazil, plesklo to a na plenu dopadla dlouhá kost, tak zvaný hnát. Byla to kost holenní, neboli tibia, ale to Divák nevěděl, neboť patřil k humanitnímu typu vzdělance, kterého takové věci nezajímají, neboť ho zajímá pouze člověk. Místo toho byl indignován způsobem, jak se tu zachází s lidskými ostatky, ale na druhé straně se jaksi styděl k tomuto rozhořčení přiznat, neboť v módě byl toho času mezi inteligencí spíš takový jako cynismus. Nicméně hrobník, vida, že není sám, další kosti již nevyhazoval, ale shromažďoval je v jednom rohu jámy. Když jich měl už notný svazek, vylezl ven, třímaje je v náručí, a položil je pomalu na igelit. Vzpřímil se a pozoroval Diváka, nevěda zřejmě, má-li ho požádat, aby odešel. Hrobník byl vysoký člověk s plochou, jakoby moravskou tváří a zapadlýma modrýma očima. Vlasy měl neurčitě hnědé, dosti řídké a splihle učesané na způsob nevydatné ofiny. Na sobě měl rozhalenou kostkovanou košili a vyvatýrovanou vestičku barvy khaki, snad zahraničního původu. Nevýrazné špinavé kalhoty ústily do gumáků, zaneřáděných jílem. Neříkal nic a jen se díval. Divák se ho začínal skoro bát. Napadlo ho, že na hřbitově není živé duše, k tomu hustá mlha: kdyby ho hrobník z nějakého důvodu, třeba šíleného, praštil lopatou nebo krumpáčem do hlavy a pak zakopal pod úroveň dna čerstvě vykopaného hrobu, nikdo by tam jeho tělo nehledal a asi neobjevil. Dno je čvachtavě rozkopané stejně, zakrátko na ně spustí rakev a hrob zaházejí. Divák nevěděl, do jaké hloubky může pes stopař navětřit mrtvolu, ale usoudil, že i kdyby to theoreticky mohl, jistě by ho mátl pach mrtvoly ležící nad hledaným tělem a asi taky nebožtíci v okolních hrobech. To pro případ, že by to pes vůbec dokázal, což ale možná nedokáže. Diváka napadlo, zda někdo už tenhle způsob odstranění mrtvoláka z cesty využil, neboť se mu zdál velmi dokonalý.
@@ -76,3 +78,5 @@ A řeknu vám, mně osobně se to zdá nejlogičtější řešení a taky že 
 „Promiňte, pane,“ muž ve zřízenecké čepici, zřejmě nějaký hřbitovní koordinátor, odvádí Diváka jemně pryč.
 
 „On by Pepík jenom kecal a nic by nedělal. Doufám, že vás příliš neobtěžoval. On sice svou práci zastane, ale musí se na něj dohlížet. Nemá, chudák, dobrý rozum.“
+
+</section>

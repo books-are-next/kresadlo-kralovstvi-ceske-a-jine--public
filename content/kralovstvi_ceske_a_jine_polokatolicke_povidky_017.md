@@ -3,6 +3,8 @@ title: Zjevování
 contentType: prose
 ---
 
+<section>
+
 Kdesi v Anglii, tam, kde se říká „Anglie i v angličtině“, totiž v jihovýchodním cípu ostrova, v oblasti zvané _East Anglia_, je vesnička. Nezáleží na tom, jak se jmenuje ve skutečnosti, ale nelíbí se nám označovat ji jenom jako N nebo X.
 
 Proto budiž zde zvána třeba _Littlethorpe Quoddam_, protože místní jména ve Východní Anglii jsou často jednak sasky starobylá, jako třeba _Shenfield_, jednak kombinovaná s latinou, jako třeba _Bradwell_\-_juxta_\-_Mare._
@@ -112,3 +114,5 @@ Dovolte – dovolte, abych něco věnoval na – na opravy – na udržován�
 Zjevení vstrčilo knězi bankovku do kapsy, vylezlo druhým koncem z lavice, a než se reverend vzpamatoval, zabouchly se už za ním dveře hlavního vchodu.
 
 Kněz se chtěl za ním ještě rozběhnout, ale než se vymotal z lavice, slyšel už nastartování a odjezd automobilu.
+
+</section>

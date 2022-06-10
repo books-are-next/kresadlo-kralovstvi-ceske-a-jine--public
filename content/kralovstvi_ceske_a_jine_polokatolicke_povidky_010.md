@@ -3,6 +3,8 @@ title: Temnota
 contentType: prose
 ---
 
+<section>
+
 Torba pohlédl na slunce, které pálilo mázdrou kouřových mračen, a pomyslel si, že je to ten olověný měďák indiána Ratzapise z románu _Der Gang der blinden Schlange_ od Böhlera a Ladislava Klímy. Kus toho vyšel v českém překladě v Klímově „festšriftu“, k sedmdesátému výročí jeho zrození a dvacátému jeho smrti – přesně onoho fatálního roku devatenáct set čtyřicet osm. Ještě to vyšlo – pěst Pracujícího lidu se svírá sice jistě, ale pomalu, spis měl však už předmluvu, ve které se jakýsi jelimánek naivně snažil smířit Klímu s marxismem. Vzápětí se pak nad českým duchem zavřela smrdutá hladina sovětského azijství – odpočívej v pokoji. Všude kolem, na marťanských kopečcích hlíny, se hemžili mladí lidé obojího pohlaví, kteří však se podobali spíše rekreantům u vody než dělnické třídě v boji za nové ocelové srdce republiky. Dívky měly různé slušivé plavečky a opalovačky, brýle proti slunci a na hlavách šátky, koketně uvázané ve formě turbanů, různých kokrhelů, středověkých točenic a kočičích oušek. Podobně, i když jednodušeji, byli upraveni i přítomní jinoši. Psal se nějaký ten rok padesát dva nebo tak. Všichni dělali na výkopu nějakých snad příkopů či zákopů pro vložení potrubí, nevím, jak se tomu správně říká, ale moc toho nepodělali. To však vlastně nevadilo. Akt brigády byl aktem spíše sakrálním než praktickým – manifestací dobré vůle a splynutí s dělnickou třídou, ostatně předáci na stavbě Nových hutí Klementa Gottwalda museli často úporně přemýšlet, jak a kde studenty zaměstnat – podle nezaručené legendy dávali prý různým studentským brigádám postupně vykopávat a zase zahazovat tentýž zákop – na tom vlastně nezáleželo, šlo o princip.
 
 Torba pozoroval kritickým okem nejapné hemžení budoucích mozků republiky. Dělali vždycky v partách po třech – nereálnost mythu o fysické rovnosti mužů a žen jim ještě nedošla – jeden kopal, jeden házel a jeden vozil kolečko. I mužské trojice však udělaly za šichtu asi tolik jako jeden jediný profesionální dělník za stejnou dobu, kdyby se příliš nepřetrhl. Torba to věděl, protože jím několik posledních let byl. Byl totiž v roce 49 třídně zničen, ale nedal se, takže nyní byl již třídně obnovován.
@@ -43,17 +45,33 @@ Na scénu vstupuje soudruh Klen. Je to ten druhý, co zpíval s Torbou bas. Tor
 
 Soudruh Klen se uklání a kráčí k pianu, o něž se elegantně a tak zvaně nonšalantně opírá. Vypadá velmi pěkně v modré svazácké košili a bílých plátěnicích a úderka (nastoupila v uniformě, Torbovi košili někdo půjčil: na vojně ho sice do ČSM zapsali, ale nikdy se o to nezajímal a ani košili si nekoupil) poněkud lidově. Dost vysoký, tak asi 180, štíhlý, vlasy na americký crewcut a s tou bradičkou. Tvář pravidelná, skoro až příliš krásná, nyvé mandlové oko, vypadá skoro jako štíhlá holka, převlečená a namaskovaná za mladíka. Smolíček odbrnkává melancholicky-ruskou předehru a soudruh spouští:
 
+</section>
+
+<section>
+
 _Ax, ty, nočeňka,  
 nočka tëmnaja,  
 nočka tëmnaja,  
 ej, nočka seraja…_
 
+</section>
+
+<section>
+
 Ukazuje se, že soudruh Klen má krásný basbaryton, měkký, ale přirozeně nosný a zpěvný, kulatý, jemně vibrující jako cello v rukou virtuosa. Lahoda. Také písnička je pěkná. Není v ní nic o slunci Stalinovi, ani o svobodě sovětského člověka, nad niž není větší, ani o borbě za mír, jenom o noci, temné a šeré noci, kterou první strofa pouze oslovuje čili apostrofuje, s patřičným opakováním ruské lidové šíře.
+
+</section>
+
+<section>
 
 _Čtož ty, nočeňka,  
 obtumanilas’,  
 nočka tëmnaja,  
 nam prinaxmurilas’?_
+
+</section>
+
+<section>
 
 Zpívá teď krásně, medově a dojemně Klen a Torbovi svítá:
 
@@ -87,17 +105,41 @@ Brigádníci sedí na dvorku, či jakési zahrádce, zkrátka na trávníku pře
 
 A zpívají: Zpívají pěkně. Klen to nabral hodně hluboko a krásně mu to zní, ale přitom má měkkou barytonovou barvu, jako cello. Torba improvisuje druhý hlas, tak, jak to snad slyšel v rozhlase, nebo kdysi ve škole, tak jak cítí, že se to k té písničce hodí a vždycky dělá, chromatickým protipohybem shora.
 
+</section>
+
+<section>
+
 ![](../Images/003.jpg)
+
+</section>
+
+<section>
 
 Jaksi to Torbu bere divně za srdce, jakýsi osten, budí se v něm cosi podivného, žensky umdlévavě pasivního, bolestného, monstrosního ale, ach, sladce slastného. Torba nasazuje vysokou kulatou fistuli, ještě jednou, ještě unyleji, jako by se tím přiznával k nějaké kapitulaci, jako by hlásal světu, co je zač, jak cítí:
 
+</section>
+
+<section>
+
 ![](../Images/004.jpg)
+
+</section>
+
+<section>
 
 Klenovo hluboké F měkce duní a vibruje – ach, položit mu tak hlavu na prsa – Kriste! co se to se mnou děje za nestvůrnost, co se to ve mně jen budí?
 
 Klen otáčí mandlové oči k Torbovi a přidušeně, důrazně pokračuje. Torba se vozí s ním v blahých sextách, ale raději už žádné hlouposti, ať si někdo nevšimne, raději v normální mužské poloze:
 
+</section>
+
+<section>
+
 ![](../Images/005.jpg)
+
+</section>
+
+<section>
 
 Dozpívali, brigádníci aplaudují, ale Torba se dívá do země. Pro pána, co to se mnou je – snad si toho ale nikdo nevšiml – proč vůbec chtěl, abych zpíval s ním – takhle se vystavovat, vždyť přece, teprv teď to vidí jasně, by tohle měl zpívat spíše s nějakým děvčetem, proč jen si vybral jeho?
 
@@ -127,11 +169,19 @@ Ručičky dolezly ke dvanáctce a Torba se zvedl. Odhodil deky a opatrně se s
 
 Aj ta, nočeňka, nočka tëmnaja – nocko, nocko, nocko čmava – náhle to projelo jeho vědomím jako blesk, jako obnažený meč.
 
+</section>
+
+<section>
+
 _Em una noche obscura  
 Con ansias en amores in flamada  
 ¡Oh clichosa ventura!  
 Sali sin ser notada  
 Estando ya mi casa sosegada…_
+
+</section>
+
+<section>
 
 Nu ano – všechno je tady: černá, neproniknutelná noc, hluboce spící dům, jeho znenadání divně poženštilá duše, vystupující po tmě po skrytém požárním žebříku na plochou střechu, aby se tu setkala s milencem, který vypadá – vypadá jako – pod Torbou se náhle otevřela propast nezemské hrůzy. Pahýl zrůdné vášně se odkrvil. Torba se třásl a zuby mu cvakaly, ale pokračoval nahoru, aby čelil, aby konfrontoval. Stanul na střeše a musel se opřít o zábradlí. Od půdového nástavce se oddělil temnější stín.
 
@@ -156,3 +206,5 @@ Z antologie španělských básníků, říkáte? – Ne, to že se vám to v�
 No, to já vám nemohu zodpovědně poradit, nejsem lékař ani psycholog, ale když říkáte, že jste to předtím nikdy v dospělosti nezažil a že vás to pak hned přešlo, jak jste si uvědomil ten paralelismus, a že máte jinak sklony k ženám – tak já bych soudil, že snad ne. A když už jsme tady zabrousili do těchto vod – a s tím svatým Janem od Kříže – ten v tom přece jasně hraje roli – tak já bych si dovolil připomenout jednu pasáž, kterou jsem u něj kdysi četl – ani už nevím, ve kterém spise, ale je to tam někde určitě – utkvěla mi ta pasáž, že je taková divná, až skoro hrůzná. Sv. Jan tam někde píše, že některé duchovní osoby při svatém přijímání mohou, kromě duchovní slasti, zažívat i tělesné vzrušení a že je to vždy strašně vyděsí a odvrátí od časté komunikace. A svatý Jan to vysvětluje tím, že tělo chce také participovat na duchovní slasti, ale pro svou přirozenost to může dělat jenom tímto způsobem, a aby se ta duchovní osoba neděsila a nedala odradit, že až více pokročí a její vztah k Bohu se více očistí, že to pak přestane. Tak já bych soudil, že tady šlo snad o něco analogického – když vy říkáte, že ten člověk se podobal našemu Spasiteli – nebo tedy představě, kterou o něm máme, takže ve vás snad vzbudil neuvědomělou duchovní touhu, ale že vaše tělo na tom chtělo zase svým způsobem participovat, jako při tom svatém přijímání těch duchovních osob, jak o tom píše svatý Jan. Ale právě, že ten člověk byl tím způsobem založen, tak tady šlo o velice rafinovanou návnadu a past – jenomže, s pomocí Boží jste unikl i z ní.
 
 Deo gratias.“
+
+</section>
