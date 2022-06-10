@@ -3,6 +3,8 @@ title: Výletníci
 contentType: prose
 ---
 
+<section>
+
 Policejní člun se přiblížil a dával znamení. Muž u kormidla vyhodil rychlost, šroub se přestal otáčet a vyhlídkový člun se zastavil. Výletníci, sedící nahoře na střeše a opalující se v letním slunci, zírali indignovaně temnými brýlemi na policajty, jak přirážejí k jejich plavidlu, zachycují se jakýmsi hákem a jak důstojník vyskakuje na krytou palubu. Zasalutoval se zdvořilou korektností a oslovil muže u kormidla: „Dobrý den, občane, účel jízdy?“ – „Rekreační, pane kapitáne,“ řekl kormidelník. „Exkurse do potopených zbytků chrámu svatého Hilarióna – Xylona, národní podnik.“ – „Ten člun máte v nájmu?“ – „Ne, pane kapitáne, ten je podnikový, odborový.“ – „Máte na to papíry?“ – „Ano, prosím, tady.“ – „Hm! – a – navigační patent – máte?“ – „Tady, prosím.“ – „Můžu vidět vaši občanku?“ – „Prosím.“ – „Dobrá, to se shoduje. Osazenstvo kontrolovat – to snad tedy ani nemusím – ale ručíte mi za ně, rozumíte. Žádný nedovolený rybolov, nebo tak – žádné nahé koupání. Víte, že jsou na to zákony. Tak si ten rekreační výlet dobře užijte – na shledanou!“ Kapitán zasalutoval, vlezl přes brlení do svého člunu – „odražte“ – řekl své posádce – a odfrčeli, ponechávajíce za sebou pruh zpěněné vody.
 
 Muž u kormidla vyhlídkového člunu zařadil rychlost a plavidlo se rozjelo. Byl to člun jakéhosi krabicovitého tvaru, asi deset metrů dlouhý. Dole byly dvě řady lavic, u každého okraje delší strany jedna, proti sobě. Nad touto vlastní palubou byla víceméně plochá střecha, ponechávající vzadu, nad šroubem a kormidlem, jakousi volnou platformičku. Z té se dalo po žebříčku vylézt nahoru na tu plochou střechu a všichni výletníci z Xylony, v počtu asi patnácti osob obojího pohlaví a rozličného věku, to toho letního nedělního rána udělali.
@@ -50,3 +52,5 @@ Představa potopeného chrámu má jakousi zvláštní přitažlivost a předst
 Ale mám tu zkušenost, že cokoliv jsem kdy vymyslel, lépe řečeno vyfantazíroval, že s tím jsem se pak pravidelně vždy setkal jako se skutečností, ne-li pravou, skutečně reálnou, tedy aspoň jako se sdělenou fantasií někoho jiného.
 
 A proto jsem si jist, že Missa subaquatica někde nějakým způsobem je, nebo alespoň bude.
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Království české a jiné polokatolické povídky](https://search.mlp.cz/cz/titul/kralovstvi-ceske-a-jine-polokatolicke-povidky/59361/#/) tak, jak bylo vydáno nakladatelstvím Votobia v Olomouci v roce 1996, a z autorského strojopisu z archivu dědiců. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 10. 12. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

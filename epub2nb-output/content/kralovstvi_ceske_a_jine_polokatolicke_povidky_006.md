@@ -3,6 +3,8 @@ title: Království české
 contentType: prose
 ---
 
+<section>
+
 Archeo Pteryx seděl na lavičce v parčíku a čekal. Sklánějící se slunce jaksi zušlechťovalo beznaděj proletářské čtvrti a dodávalo všem věcem jakousi duchovou monumentálnost. Ohyzdně rudé květy na záhonku, tvrdé jako bolševik, náhle měkce žhnuly, zavírajíce kalichy, chodník zrůžověl a stíny na něm něžně zmodraly. Západní strana melancholicky jásala roztavenou mědí. Nitro Pterygovo bylo napjatě slavnostní. Hurválek prošel a zabočil do stoupavé ulice. Pteryx vysunul zápěstí z rukávu a začal nenápadně pozorovat minutovou ručičku. Připadalo mu to jako počítání při provádění nějaké skladby s fugovanými nástupy – Hurválek už nastoupil, tak teď: ráz – dva – tři – čtyři – ráz – dva – tři – čtyři, jenom nezmeškat nástup vlastní.
 
 Chybělo mu to poslední léta, kulturní úderky a podobně to nemohly nahradit. Nejen k vůli kaditelnění slunci Stálinovi a tak, to už nikdo ani nevnímal, ale vlastní muzika byla skoro vždycky blbá. Proto velice uvítal, když se u nich doma objevil Kodra. Byl teď nějakým měřičem šroubků ve fabrice, nebo co, ale existoval: Vidí-li člověk na vlastní oči, jak je snadné neexistovat vůbec, jeví se náhle i existence měřiče šroubků téměř vznešenou.
@@ -102,3 +104,5 @@ Pro Krista Pána, co tady dělám? pomyslel si Pteryx, ještě štěstí že on 
 „Inkvisice?“ řekl Pteryx, probíraje se znovu z vlastních úvah. „Ale to snad přece jenom ne, pane inženýre.“
 
 Ing. Šmidra se odmlčel a zadíval se na Pteryga indignovaně maličkýma světlýma očima, připomínajícíma pohled želvy. Nechtěl věřit svým uším. Konečně přece jen uvěřil trpké pravdě a fistulácky vykřikl: „Vy mladí, vy jste tím bolševismem úplně prosáklí!“
+
+</section>

@@ -3,6 +3,8 @@ title: "Jedno ráno a\_večer v\_životě Cypriána Belvy"
 contentType: prose
 ---
 
+<section>
+
 Kněz se obrátil, zasvítil brýlemi proti oknu a pravil polohlasně rituálním brumlavým hlasem: „Dominus vobiscum.“
 
 „Et cum spiritu tuo,“ odpověděl osmiletý Jan Belva.
@@ -31,10 +33,18 @@ Předně jde vlastně o lidskou oběť s následným rituálním kanibalismem,
 
 Nebo třeba jak jsou ty procesy s nepřáteli lidu a socialismu – taky se nic neděje; vymydlení a elegantně upravení obžalovaní recitují monstrózní doznání, žádají pro sebe co nejpřísnější tresty – všechno je v pořádku, zločinci se dokonce kají – ale ovšem Pracující lid je přísný, co nejpřísnější – tvrdě na ně dopadne jeho pěst, aby nám nekazili krásné budování, bílý den a plno růží kolem – ženy z lidu se hrozí, básníci, národní to umělci a umělkyně, o nich indignovaně napíší do Rudých práv:
 
+</section>
+
+<section>
+
 _Dnes přece ví už každý vetřelec,  
 že Praha není Cleveland ani Connecticut  
 a že kdo nám sáhne na společnou věc,  
 bude za to spravedlivě pykat –_
+
+</section>
+
+<section>
 
 a mluví všemu Lidu z duše, na rozdíl od lidí.
 
@@ -113,3 +123,5 @@ Předně se na tu holku moh přece vykašlat – to zas by, myslím, nebyl tako
 Potom, proč on to teda nedělal jako já – možná, že v té kolonii by bylo těžší Tě vracet, ale i kdyby Tě shromažďoval třeba někde ve flašce s dobrým závěrem, aby Tě nesežrali termiti, bylo by to lepší než Tě polykat a pak se nakonec zabít. Já bych se zabít ani nemohl, i když mě život dvakrát nebaví, upřímně řečeno, protože kdo by se mi potom staral o rodinu a taky že by plakali.
 
 Ale vidíš, že mám aspoň dobrou vůli. Tak, prosím Tě, mi kvůli nim zatím nic nedělej, nebo když, tak to zařiď, aby se o ně někdo jiný postaral. A chraň je a všechny lidi, i když jsou to svině a kurvy. Amen.“
+
+</section>

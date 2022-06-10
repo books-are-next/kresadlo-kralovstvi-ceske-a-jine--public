@@ -3,6 +3,8 @@ title: Čtenář not
 contentType: prose
 ---
 
+<section>
+
 Probudil se někdy po čtvrté hodině ranní a věděl, že už neusne. Poslední dobou se budil velmi brzy, stále časněji, bez ohledu na to, kdy šel předtím spát, kolik hodin měl naspáno. Snad se tímto způsobem ohlašovala stařecká nespavost.
 
 Venku byla tma jako černá propast, hvězdy za mrakem, déšť bubnoval. Někde v dálce blikalo světlo, ale nemohl si za nic uvědomit, kdy by to mohlo být, jak vlastně vypadá ten výhled za světla.
@@ -17,7 +19,15 @@ Die wunderbare Synthese der Stilelemente der venezianischer Tonkunst mit der tsc
 
 Baroko – tvář baroka – barokní formy – Jakub Deml – anální erotika – lepší půlka národa – ty vole – asocioval volně – ach jo! Kdy už nám přestanou dělat tu vedoucí roli i tady – lepší se distancovat. – Otevřel vlastní partituru a listoval v ní. Několikrát se začetl – sakra, to musí znít krásně! – Kdyby to byl Němec nebo Talián, nebo i Brit!, znal by ho celý svět – no, nevadí. Téměř prázdná stránka, samá pauza ho zaujala: Moderato con expressione ![](../Images/001.jpg) \= 72 varhany v pianu (představil si jemné rejstříky předního positivu), solový duet, tenor s altem – a nad tím kvílí dvoje housličky. „Crucifixus etiam pro nobis,“ zpíval si v duchu krásnou smutnou melodii tenorového partu a obdivoval se jednoduché a přitom rafinované harmonii. Těžko to popsat slovy, raději to uveďme v notách:
 
+</section>
+
+<section>
+
 ![](../Images/002.jpg)
+
+</section>
+
+<section>
 
 Jeho nitro jako by také měnilo barvy: stříbrná, zelená, modrá, fialová, sametově černá, medově žlutá, oranžová, bílá, a plnilo se sladkou příjemnou bolestí, příbuznou mukám lásky, ale jaksi čistší, odtažitější, neposkvrněnou tělesnými šťavami.
 
@@ -45,8 +55,16 @@ Slyšel jsem, uvažoval Čtenář not, že prý chodíval po Praze se svými př
 
 Přitom zpíval:
 
+</section>
+
+<section>
+
 _Hochiž, hochiž, Jene Huse,  
 ať nehochí naše duše._
+
+</section>
+
+<section>
 
 Iks totiž ráčkoval.
 
@@ -86,8 +104,16 @@ Tak recitoval Čtenář not ironicky své duši a obloukem odplivl do sněhu hn
 
 ExpeRimentální:
 
+</section>
+
+<section>
+
 _Kdo šetchí má za tchi hop  
 mnohým lidem život hRob,_
+
+</section>
+
+<section>
 
 recitoval Iks Čtenáři not, když se zase po létech náhodou potkali. „Sensace,“ liboval si, „zcela nový čeRstvý pchístup.“
 
@@ -123,11 +149,19 @@ Há – Domažlice sú pjekný mjestečko, je tam pjívovár dobrý pjíveč-ko
 
 Snad odtud pocházeli, nebo co. Zpívali dosti schopně, v terciích a sextách a jeden dělal mruk dud: ehmmmmm – ehmmmm – ehmmmm.
 
+</section>
+
+<section>
+
 _„Co sem se za tebú nachodil,  
 co sem se s tebú nastál (3×)  
 Ty si mi súzená nebula  
 ha já sem tě nedostál (3×),  
 Hááá – Domá-žlice sú…“_
+
+</section>
+
+<section>
 
 Tehdy to přišlo zase.
 
@@ -135,11 +169,19 @@ Jako by se to nějak nastřádalo, jako by to čekalo jen na tento impuls, co to
 
 Ach, Bože, děvče – a bylo tam tak Radostno, že bychom chekli –
 
+</section>
+
+<section>
+
 _„Chodili za tebú myslivcí,  
 mjéli zelený šaty (3×).  
 Ty si jim súzená nebula  
 nedostáli tě teký (3×)  
 Háá – Domažlice sú…“_
+
+</section>
+
+<section>
 
 Proč to tak působí, taková hloupá písnička, a vždyť to vlastně ani není pravda: Nechodil, nestál s ní. Kdyby to udělal, bylo to třeba všechno jinak – hůř by se s ním jistě neměla – to by už asi šlo těžko. Ale neodvažoval se, to je to. Ze sobectví vlastně, z jakési zbabělosti, dobře mu vlastně tak!
 
@@ -158,3 +200,5 @@ Ale vždyť ani moc netrpěl, jen malinko a občas, v intervalech mnoha let �
 * * *
 
 Čtenář not vzal opět partituru a nalistoval „Crucifixus“. Opět si představil varhany, dvoje housle a zpěv vlastního hlasu. Když se ale hořcově rozzelo G dur po žlutozeleném As dur – f mol a nastoupil alt, nebyl to už živý, vibrující hlas Duchové zpěvačky, ale abstraktní, průhledný tón bez barvy a chuti, jen idea zvuku, jak si obvykle uměl svou omezenou muzikálností psanou hudbu nedokonale představit. Tajemná návštěvnice odešla: Protože, když se soustředil a snažil si vybavit linii altu konkrétním zvukem, ozval se v jeho představě už jen nepřirozený zvuk anglického školeného mužského falsetu. Ovšem, hluboká poloha závěru ukazovala, že skladatel měl původně na mysli nejspíš tento druh hlasu.
+
+</section>
