@@ -59,8 +59,8 @@ Přitom zpíval:
 
 <section>
 
-_Hochiž, hochiž, Jene Huse,  
-ať nehochí naše duše._
+Hochiž, hochiž, Jene Huse,  
+ať nehochí naše duše.
 
 </section>
 
@@ -108,8 +108,8 @@ ExpeRimentální:
 
 <section>
 
-_Kdo šetchí má za tchi hop  
-mnohým lidem život hRob,_
+Kdo šetchí má za tchi hop  
+mnohým lidem život hRob,
 
 </section>
 
@@ -153,11 +153,11 @@ Snad odtud pocházeli, nebo co. Zpívali dosti schopně, v terciích a sextác
 
 <section>
 
-_„Co sem se za tebú nachodil,  
+„Co sem se za tebú nachodil,  
 co sem se s tebú nastál (3×)  
 Ty si mi súzená nebula  
 ha já sem tě nedostál (3×),  
-Hááá – Domá-žlice sú…“_
+Hááá – Domá-žlice sú…“
 
 </section>
 
@@ -173,11 +173,11 @@ Ach, Bože, děvče – a bylo tam tak Radostno, že bychom chekli –
 
 <section>
 
-_„Chodili za tebú myslivcí,  
+„Chodili za tebú myslivcí,  
 mjéli zelený šaty (3×).  
 Ty si jim súzená nebula  
 nedostáli tě teký (3×)  
-Háá – Domažlice sú…“_
+Háá – Domažlice sú…“
 
 </section>
 

@@ -75,10 +75,10 @@ Parma udělal proti mužíkovi ve vzduchu veliký kříž a jako ze sna recitov
 
 <section>
 
-_Ecce crucem Domini,  
+Ecce crucem Domini,  
 fugite, partes adversae!  
 Vicit Leo dé tribu Juda,  
-radix David, alleluja!_
+radix David, alleluja!
 
 </section>
 

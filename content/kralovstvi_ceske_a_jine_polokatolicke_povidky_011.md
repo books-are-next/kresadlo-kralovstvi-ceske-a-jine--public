@@ -31,14 +31,14 @@ Z ulice to bylo až ve sklepě, ale od řeky dost vysoko. Stalin na kopci se d�
 
 <section>
 
-_S odnim želaniem i s dumoju odnoju  
+S odnim želaniem i s dumoju odnoju  
 so všex krain rodnoj svoej zemli  
 my sobralisja družnoju semëju  
 my vse učiťsja masterstvu prišli.  
 Projdut goda i mesjacy mnogie  
 kogda sovetskij trudovoj narod  
 vot, éti ruki, ruki molodye  
-rukami zolotymi nazovët._
+rukami zolotymi nazovët.
 
 </section>
 

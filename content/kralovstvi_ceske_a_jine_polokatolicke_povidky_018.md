@@ -37,10 +37,10 @@ Nebo třeba jak jsou ty procesy s nepřáteli lidu a socialismu – taky se n
 
 <section>
 
-_Dnes přece ví už každý vetřelec,  
+Dnes přece ví už každý vetřelec,  
 že Praha není Cleveland ani Connecticut  
 a že kdo nám sáhne na společnou věc,  
-bude za to spravedlivě pykat –_
+bude za to spravedlivě pykat –
 
 </section>
 
