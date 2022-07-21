@@ -1,0 +1,361 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Království české a jiné polokatolické povídky",
+  "author": "Jan Křesadlo",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kresadlo-kralovstvi-ceske-a-jine-polokatolicke-povidky-8c4f937",
+  "revision": "8c4f937",
+  "readingOrder": [
+    "promo.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_005.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_006.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_007.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_008.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_009.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_010.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_011.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_012.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_013.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_014.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_015.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_016.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_017.html",
+    "kralovstvi_ceske_a_jine_polokatolicke_povidky_018.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 21 2022 15:53:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658418813817
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Království české a jiné polokatolické povídky",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_005.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Království české",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_006.html",
+      "words": 3541,
+      "chars": 20659,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_005.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Království české",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sektáři",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_007.html",
+      "words": 1469,
+      "chars": 8243,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_006.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sektáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čtenář not",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_008.html",
+      "words": 4804,
+      "chars": 28058,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_007.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtenář not",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výletníci",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_009.html",
+      "words": 2263,
+      "chars": 14408,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_008.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výletníci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Temnota",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_010.html",
+      "words": 5143,
+      "chars": 30378,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_009.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Temnota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sebekritika",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_011.html",
+      "words": 4330,
+      "chars": 26506,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_010.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sebekritika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes genezaretský",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_012.html",
+      "words": 956,
+      "chars": 5622,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_011.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes genezaretský",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vteřina a věčnost",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_013.html",
+      "words": 2804,
+      "chars": 17116,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_012.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vteřina a věčnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Království české a jiné polokatolické povídky",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_014.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_013.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebozezy",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_015.html",
+      "words": 2652,
+      "chars": 16171,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_014.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebozezy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Království české a jiné polokatolické povídky",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_016.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_015.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zjevování",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_017.html",
+      "words": 3988,
+      "chars": 24704,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_016.html",
+      "next": "kralovstvi_ceske_a_jine_polokatolicke_povidky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zjevování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedno ráno a večer v životě Cypriána Belvy",
+      "file": "kralovstvi_ceske_a_jine_polokatolicke_povidky_018.html",
+      "words": 4365,
+      "chars": 25935,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 14,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_017.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedno ráno a večer v životě Cypriána Belvy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 152,
+      "chars": 1009,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_018.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 36480,
+      "chars": 218877,
+      "ideas": 538
+    },
+    "chapters": {
+      "words": 36318,
+      "chars": 217800,
+      "ideas": 518
+    }
+  }
+}

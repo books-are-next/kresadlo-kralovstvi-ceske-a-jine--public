@@ -49,10 +49,10 @@ Soudruh Klen se uklání a kráčí k pianu, o něž se elegantně a tak zva
 
 <section>
 
-_Ax, ty, nočeňka,  
+Ax, ty, nočeňka,  
 nočka tëmnaja,  
 nočka tëmnaja,  
-ej, nočka seraja…_
+ej, nočka seraja…
 
 </section>
 
@@ -64,10 +64,10 @@ Ukazuje se, že soudruh Klen má krásný basbaryton, měkký, ale přirozeně n
 
 <section>
 
-_Čtož ty, nočeňka,  
+Čtož ty, nočeňka,  
 obtumanilas’,  
 nočka tëmnaja,  
-nam prinaxmurilas’?_
+nam prinaxmurilas’?
 
 </section>
 
@@ -173,11 +173,11 @@ Aj ta, nočeňka, nočka tëmnaja – nocko, nocko, nocko čmava – náhle to
 
 <section>
 
-_Em una noche obscura  
+Em una noche obscura  
 Con ansias en amores in flamada  
 ¡Oh clichosa ventura!  
 Sali sin ser notada  
-Estando ya mi casa sosegada…_
+Estando ya mi casa sosegada…
 
 </section>
 
