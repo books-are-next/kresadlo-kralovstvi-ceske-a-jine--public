@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-kralovstvi-ceske-a-jine-polokatolicke-povidky-6f9d2da",
-  "revision": "6f9d2da",
+  "identifier": "kresadlo-kralovstvi-ceske-a-jine-polokatolicke-povidky-7f62466",
+  "revision": "7f62466",
   "readingOrder": [
     "promo.html",
     "kralovstvi_ceske_a_jine_polokatolicke_povidky_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:56:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150999176
+    "date": "Mon Oct 10 2022 15:48:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416912145
   },
   "documents": [
     {
@@ -328,9 +328,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 150,
-      "chars": 1009,
-      "ideas": 14,
+      "words": 147,
+      "chars": 988,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "kralovstvi_ceske_a_jine_polokatolicke_povidky_018.html",
@@ -348,9 +348,9 @@
   ],
   "totals": {
     "all": {
-      "words": 36478,
-      "chars": 218877,
-      "ideas": 536
+      "words": 36475,
+      "chars": 218856,
+      "ideas": 535
     },
     "chapters": {
       "words": 36318,
