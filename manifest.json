@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-kralovstvi-ceske-a-jine-polokatolicke-povidky-7f62466",
-  "revision": "7f62466",
+  "identifier": "kresadlo-kralovstvi-ceske-a-jine-polokatolicke-povidky-01ab373",
+  "revision": "01ab373",
   "readingOrder": [
     "promo.html",
     "kralovstvi_ceske_a_jine_polokatolicke_povidky_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:48:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416912145
+    "date": "Fri Oct 21 2022 11:36:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352169167
   },
   "documents": [
     {
